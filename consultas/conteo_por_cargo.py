@@ -16,7 +16,11 @@ resultado = empleados_collection.aggregate([
     {"$group": {"_id": "$rol", "cantidad": {"$sum": 1}}}
 ])
 
+total = empleados_collection.count_documents({})  # Total de empleados
+
 # Mostrar resultados
 print("Cantidad de empleados por cargo:")
 for cargo in resultado:
     print(f"Cargo: {cargo['_id']}, Cantidad: {cargo['cantidad']}")
+
+print(f"Total de empleados: {total}")

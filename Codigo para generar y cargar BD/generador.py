@@ -65,6 +65,7 @@ for i in range(CANT_EMPLEADOS):
         "zona_asignada": random.choice(nombres_zonas),
         "especialidad": random.choice(["Felinos grandes", "Aves tropicales", "Reptiles venenosos", "Mamíferos acuáticos"]),
         "salario": random.randint(3000, 10000),
+        "edad": random.randint(20, 60),
     })
     nombres_empleados.append(empleado_id)
 

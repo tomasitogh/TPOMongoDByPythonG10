@@ -1,62 +1,62 @@
 [
   {
-    "_id": "edificio_low",
-    "nombre": "Ryan, Taylor and Johnson",
-    "tipo": "Tienda",
-    "zona_id": "zona_themselves"
-  },
-  {
-    "_id": "edificio_media",
-    "nombre": "Lopez, Turner and Mann",
-    "tipo": "Área de espectáculos",
-    "zona_id": "zona_day"
-  },
-  {
-    "_id": "edificio_unit",
-    "nombre": "Jones-Lopez",
-    "tipo": "Área de espectáculos",
-    "zona_id": "zona_I"
-  },
-  {
-    "_id": "edificio_speech",
-    "nombre": "Horn-Warren",
-    "tipo": "Administrativo",
-    "zona_id": "zona_discussion"
-  },
-  {
-    "_id": "edificio_serious",
-    "nombre": "Arias-Johnston",
-    "tipo": "Tienda",
-    "zona_id": "zona_stage"
-  },
-  {
-    "_id": "edificio_beat",
-    "nombre": "Alvarado, Stanley and Mckenzie",
-    "tipo": "Tienda",
-    "zona_id": "zona_stage"
-  },
-  {
-    "_id": "edificio_term",
-    "nombre": "Thompson-Collins",
-    "tipo": "Tienda",
-    "zona_id": "zona_bed"
-  },
-  {
-    "_id": "edificio_behavior",
-    "nombre": "Fitzgerald-Smith",
+    "_id": "edificio_test",
+    "nombre": "Brown-Shaw",
     "tipo": "Restaurante",
-    "zona_id": "zona_stage"
+    "zona_id": "zona_enough"
   },
   {
-    "_id": "edificio_everybody",
-    "nombre": "Lewis, Anderson and Watson",
-    "tipo": "Administrativo",
-    "zona_id": "zona_stage"
+    "_id": "edificio_gas",
+    "nombre": "Levine Ltd",
+    "tipo": "Restaurante",
+    "zona_id": "zona_face"
   },
   {
-    "_id": "edificio_behavior",
-    "nombre": "Shah Group",
+    "_id": "edificio_key",
+    "nombre": "Brewer Ltd",
     "tipo": "Administrativo",
-    "zona_id": "zona_I"
+    "zona_id": "zona_cause"
+  },
+  {
+    "_id": "edificio_himself",
+    "nombre": "Stuart Inc",
+    "tipo": "Administrativo",
+    "zona_id": "zona_cover"
+  },
+  {
+    "_id": "edificio_avoid",
+    "nombre": "Adams-Collier",
+    "tipo": "Área de espectáculos",
+    "zona_id": "zona_store"
+  },
+  {
+    "_id": "edificio_close",
+    "nombre": "Meza, Cabrera and Yang",
+    "tipo": "Tienda",
+    "zona_id": "zona_enough"
+  },
+  {
+    "_id": "edificio_possible",
+    "nombre": "Day-Webb",
+    "tipo": "Centro Médico",
+    "zona_id": "zona_cover"
+  },
+  {
+    "_id": "edificio_soon",
+    "nombre": "Rowe, Ward and Johnson",
+    "tipo": "Tienda",
+    "zona_id": "zona_cover"
+  },
+  {
+    "_id": "edificio_range",
+    "nombre": "Gregory-Skinner",
+    "tipo": "Área de espectáculos",
+    "zona_id": "zona_store"
+  },
+  {
+    "_id": "edificio_true",
+    "nombre": "Jacobs and Sons",
+    "tipo": "Área de espectáculos",
+    "zona_id": "zona_move"
   }
 ]

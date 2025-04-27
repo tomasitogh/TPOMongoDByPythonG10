@@ -1,871 +1,875 @@
 [
   {
-    "_id": "empleado_62",
-    "empleado_id": "empleado_62",
+    "_id": "empleado_60",
+    "empleado_id": "empleado_60",
     "animales_asignados": [
-      "Tanya",
-      "Whitney",
-      "Timothy"
-    ],
-    "certificaciones": [
-      "Phytotherapist",
-      "Digitized attitude-oriented standardization"
-    ]
-  },
-  {
-    "_id": "empleado_73",
-    "empleado_id": "empleado_73",
-    "animales_asignados": [
-      "Erica",
-      "Nicole",
-      "Nicholas",
-      "Jennifer",
-      "Sarah",
-      "Stephen"
-    ],
-    "certificaciones": [
-      "Event organiser",
-      "Optional client-driven approach"
-    ]
-  },
-  {
-    "_id": "empleado_2",
-    "empleado_id": "empleado_2",
-    "animales_asignados": [
-      "Austin",
-      "Kevin",
+      "Stephanie",
+      "Connie",
       "Christine",
-      "Nicholas"
-    ],
-    "certificaciones": [
-      "Television/film/video producer",
-      "Reverse-engineered scalable paradigm"
-    ]
-  },
-  {
-    "_id": "empleado_33",
-    "empleado_id": "empleado_33",
-    "animales_asignados": [
-      "Taylor",
-      "Richard",
-      "Christopher",
-      "Monica",
-      "Sarah",
-      "Crystal",
       "Ryan",
-      "Vickie",
-      "David"
-    ],
-    "certificaciones": [
-      "Operational investment banker",
-      "Innovative exuding policy"
-    ]
-  },
-  {
-    "_id": "empleado_39",
-    "empleado_id": "empleado_39",
-    "animales_asignados": [
+      "Natalie",
+      "Tracy",
       "Matthew",
-      "John",
-      "Mark",
-      "James",
-      "Erin",
-      "Valerie",
+      "Jonathan",
+      "Stacy",
+      "William"
+    ],
+    "certificaciones": [
+      "Restaurant manager",
+      "User-friendly even-keeled solution"
+    ]
+  },
+  {
+    "_id": "empleado_66",
+    "empleado_id": "empleado_66",
+    "animales_asignados": [
+      "Keith",
+      "Kimberly",
+      "Joshua",
+      "Anthony",
+      "Victoria",
+      "Stephanie",
       "Michael",
-      "Christopher",
-      "Debra",
-      "Kathleen",
-      "Peggy",
-      "Ray",
-      "Susan"
-    ],
-    "certificaciones": [
-      "Psychotherapist, dance movement",
-      "Persevering incremental customer loyalty"
-    ]
-  },
-  {
-    "_id": "empleado_13",
-    "empleado_id": "empleado_13",
-    "animales_asignados": [
-      "Timothy",
-      "Meagan",
-      "Zachary",
-      "Nicholas",
-      "Michelle",
-      "Cheryl"
-    ],
-    "certificaciones": [
-      "Bookseller",
-      "Customizable clear-thinking project"
-    ]
-  },
-  {
-    "_id": "empleado_63",
-    "empleado_id": "empleado_63",
-    "animales_asignados": [
-      "Richard",
-      "Kenneth"
-    ],
-    "certificaciones": [
-      "Magazine features editor",
-      "Function-based didactic alliance"
-    ]
-  },
-  {
-    "_id": "empleado_57",
-    "empleado_id": "empleado_57",
-    "animales_asignados": [
-      "Dennis",
-      "Fred",
-      "Jessica",
-      "Kathy",
-      "Jeffery",
-      "Diana",
-      "Natasha",
-      "Patricia"
-    ],
-    "certificaciones": [
-      "Telecommunications researcher",
-      "Customizable systematic orchestration"
-    ]
-  },
-  {
-    "_id": "empleado_20",
-    "empleado_id": "empleado_20",
-    "animales_asignados": [
-      "James",
-      "Willie",
-      "Jacqueline",
-      "Christine",
-      "Elizabeth",
-      "Jacqueline",
-      "Linda",
-      "Michelle",
-      "Adrienne"
-    ],
-    "certificaciones": [
-      "Ergonomist",
-      "Front-line web-enabled neural-net"
-    ]
-  },
-  {
-    "_id": "empleado_96",
-    "empleado_id": "empleado_96",
-    "animales_asignados": [
-      "Brandi",
-      "Roberto",
-      "Alexis",
-      "Michael",
-      "Diane",
-      "David",
-      "Troy",
-      "Mary",
-      "Kayla",
-      "Brandon"
+      "Cameron"
     ],
     "certificaciones": [
       "Engineer, land",
-      "Phased didactic support"
+      "Cloned web-enabled service-desk"
     ]
   },
   {
-    "_id": "empleado_3",
-    "empleado_id": "empleado_3",
+    "_id": "empleado_75",
+    "empleado_id": "empleado_75",
     "animales_asignados": [
-      "Victoria",
+      "Kimberly",
+      "Justin",
       "John",
-      "Brian",
-      "Joseph",
-      "Austin",
-      "Antonio",
-      "Tyler"
-    ],
-    "certificaciones": [
-      "Chiropodist",
-      "Up-sized analyzing capability"
-    ]
-  },
-  {
-    "_id": "empleado_80",
-    "empleado_id": "empleado_80",
-    "animales_asignados": [
-      "Megan",
-      "Jeffrey",
-      "Albert",
-      "Christopher",
-      "Ronald",
-      "Randall"
-    ],
-    "certificaciones": [
-      "Programmer, multimedia",
-      "Versatile dedicated help-desk"
-    ]
-  },
-  {
-    "_id": "empleado_25",
-    "empleado_id": "empleado_25",
-    "animales_asignados": [
-      "Summer",
-      "Brittany",
+      "Samantha",
       "Christine"
     ],
     "certificaciones": [
-      "Fisheries officer",
-      "Networked 5thgeneration workforce"
-    ]
-  },
-  {
-    "_id": "empleado_64",
-    "empleado_id": "empleado_64",
-    "animales_asignados": [
-      "Richard",
-      "Beth",
-      "Michael",
-      "Judith",
-      "Aaron",
-      "Alexander",
-      "Rebecca",
-      "Kayla"
-    ],
-    "certificaciones": [
-      "Local government officer",
-      "Optimized systematic open system"
-    ]
-  },
-  {
-    "_id": "empleado_41",
-    "empleado_id": "empleado_41",
-    "animales_asignados": [
-      "Cindy",
-      "Kimberly",
-      "Jennifer",
-      "Traci",
-      "John",
-      "Robert",
-      "James"
-    ],
-    "certificaciones": [
-      "Arboriculturist",
-      "Decentralized regional analyzer"
-    ]
-  },
-  {
-    "_id": "empleado_77",
-    "empleado_id": "empleado_77",
-    "animales_asignados": [
-      "Adam",
-      "Christopher",
-      "Joseph",
-      "Timothy",
-      "Stacy",
-      "Angela"
-    ],
-    "certificaciones": [
-      "Maintenance engineer",
-      "Synergized solution-oriented success"
-    ]
-  },
-  {
-    "_id": "empleado_59",
-    "empleado_id": "empleado_59",
-    "animales_asignados": [
-      "Kenneth",
-      "Alicia",
-      "Penny",
-      "Jessica",
-      "Jonathan",
-      "Melissa",
-      "Douglas",
-      "Raven"
-    ],
-    "certificaciones": [
-      "Psychotherapist, child",
-      "Optimized dynamic software"
-    ]
-  },
-  {
-    "_id": "empleado_76",
-    "empleado_id": "empleado_76",
-    "animales_asignados": [
-      "Justin",
-      "Michelle",
-      "Claudia",
-      "Brittany",
-      "Debra",
-      "Melissa",
-      "Michael",
-      "Brandon",
-      "Lynn",
-      "Melissa"
-    ],
-    "certificaciones": [
-      "Systems analyst",
-      "Enterprise-wide neutral help-desk"
-    ]
-  },
-  {
-    "_id": "empleado_98",
-    "empleado_id": "empleado_98",
-    "animales_asignados": [
-      "Amanda",
-      "Jason",
-      "Russell",
-      "Christine",
-      "Robert",
-      "Allison",
-      "Melanie",
-      "Sarah",
-      "Matthew",
-      "Natasha",
-      "Valerie",
-      "Johnny"
-    ],
-    "certificaciones": [
-      "Journalist, newspaper",
-      "Customer-focused analyzing capability"
-    ]
-  },
-  {
-    "_id": "empleado_70",
-    "empleado_id": "empleado_70",
-    "animales_asignados": [
-      "Robert",
-      "Claudia",
-      "Pamela",
-      "Sabrina",
-      "Judith",
-      "Meghan"
-    ],
-    "certificaciones": [
-      "Insurance claims handler",
-      "User-centric solution-oriented middleware"
-    ]
-  },
-  {
-    "_id": "empleado_12",
-    "empleado_id": "empleado_12",
-    "animales_asignados": [
-      "Brian",
-      "Jamie",
-      "Melissa",
-      "Denise",
-      "Sandra",
-      "Andrew",
-      "Meghan",
-      "Cody"
-    ],
-    "certificaciones": [
-      "Lobbyist",
-      "Reverse-engineered solution-oriented application"
+      "Broadcast engineer",
+      "Synchronized uniform product"
     ]
   },
   {
     "_id": "empleado_19",
     "empleado_id": "empleado_19",
     "animales_asignados": [
-      "Mark",
-      "Nicole",
-      "Stephanie",
-      "Thomas",
-      "Carolyn",
-      "Steven",
-      "Douglas",
-      "Paul"
-    ],
-    "certificaciones": [
-      "Interior and spatial designer",
-      "Ameliorated multi-state monitoring"
-    ]
-  },
-  {
-    "_id": "empleado_49",
-    "empleado_id": "empleado_49",
-    "animales_asignados": [
-      "Gabrielle",
-      "Bonnie",
-      "Anthony",
-      "Erin",
-      "Lisa",
-      "Alyssa",
-      "Jeffery",
-      "Christopher",
-      "Lynn",
-      "Donna"
-    ],
-    "certificaciones": [
-      "Production engineer",
-      "Stand-alone fault-tolerant algorithm"
-    ]
-  },
-  {
-    "_id": "empleado_95",
-    "empleado_id": "empleado_95",
-    "animales_asignados": [
-      "Taylor",
-      "Tracy",
-      "William",
-      "Alexis",
-      "Lisa",
-      "Stacy",
-      "Dylan",
-      "Kyle",
-      "Valerie",
-      "Jennifer"
-    ],
-    "certificaciones": [
-      "Personnel officer",
-      "Horizontal composite hierarchy"
-    ]
-  },
-  {
-    "_id": "empleado_78",
-    "empleado_id": "empleado_78",
-    "animales_asignados": [
-      "Leslie",
       "David",
-      "Willie",
-      "Jessica",
-      "Mary",
-      "Debra",
-      "Tracy",
-      "Brad",
-      "Cody"
-    ],
-    "certificaciones": [
-      "Nurse, adult",
-      "Cloned 4thgeneration portal"
-    ]
-  },
-  {
-    "_id": "empleado_7",
-    "empleado_id": "empleado_7",
-    "animales_asignados": [
-      "Patrick",
-      "Holly",
-      "Timothy",
-      "Amanda",
-      "Jessica",
-      "Nathan",
-      "Donna",
-      "Lindsey",
-      "Christopher",
-      "Laura",
-      "Christopher"
-    ],
-    "certificaciones": [
-      "Immigration officer",
-      "Profound executive groupware"
-    ]
-  },
-  {
-    "_id": "empleado_94",
-    "empleado_id": "empleado_94",
-    "animales_asignados": [
-      "Roberta",
-      "Christine",
-      "Diana",
-      "Christina",
-      "Jeffrey",
-      "Robert",
-      "Thomas",
-      "Donna"
-    ],
-    "certificaciones": [
-      "Haematologist",
-      "Distributed exuding matrix"
-    ]
-  },
-  {
-    "_id": "empleado_24",
-    "empleado_id": "empleado_24",
-    "animales_asignados": [
-      "Donald",
-      "Tanya",
-      "Jennifer",
-      "Benjamin",
-      "Jose",
-      "Andrea"
-    ],
-    "certificaciones": [
-      "Land/geomatics surveyor",
-      "Persistent 4thgeneration success"
-    ]
-  },
-  {
-    "_id": "empleado_44",
-    "empleado_id": "empleado_44",
-    "animales_asignados": [
-      "Erin",
-      "Benjamin",
-      "Jimmy",
-      "Sabrina"
-    ],
-    "certificaciones": [
-      "Engineer, structural",
-      "Horizontal intangible interface"
-    ]
-  },
-  {
-    "_id": "empleado_42",
-    "empleado_id": "empleado_42",
-    "animales_asignados": [
-      "Christina",
-      "Daryl",
-      "Tina",
-      "Bethany",
-      "Melissa",
-      "Rebecca",
-      "Jenny",
-      "Alexander",
-      "Christopher",
-      "Mary",
-      "Brad"
-    ],
-    "certificaciones": [
-      "Chartered certified accountant",
-      "Ergonomic multimedia secured line"
-    ]
-  },
-  {
-    "_id": "empleado_56",
-    "empleado_id": "empleado_56",
-    "animales_asignados": [
-      "Melanie",
-      "Fred",
-      "Jamie",
-      "Derek",
-      "Mark"
-    ],
-    "certificaciones": [
-      "Geophysical data processor",
-      "Managed incremental throughput"
-    ]
-  },
-  {
-    "_id": "empleado_71",
-    "empleado_id": "empleado_71",
-    "animales_asignados": [
+      "Michael",
+      "Matthew",
       "Justin",
-      "Krystal",
-      "Thomas",
-      "William"
+      "Sandy"
     ],
     "certificaciones": [
-      "Photographer",
-      "Function-based 5thgeneration projection"
+      "Naval architect",
+      "Secured object-oriented circuit"
     ]
   },
   {
-    "_id": "empleado_27",
-    "empleado_id": "empleado_27",
+    "_id": "empleado_41",
+    "empleado_id": "empleado_41",
     "animales_asignados": [
-      "Tracy",
-      "Roberta",
-      "Corey",
-      "Melissa",
-      "Debra",
-      "Ronald",
-      "Nancy",
-      "David"
+      "Nathan",
+      "David",
+      "Karen",
+      "Randy",
+      "Marc",
+      "Chelsea",
+      "Sylvia",
+      "Kevin"
     ],
     "certificaciones": [
-      "Commissioning editor",
-      "Robust disintermediate solution"
-    ]
-  },
-  {
-    "_id": "empleado_4",
-    "empleado_id": "empleado_4",
-    "animales_asignados": [
-      "Vincent",
-      "Elizabeth",
-      "Timothy",
-      "Diane",
-      "Jeffrey",
-      "Janet",
-      "David"
-    ],
-    "certificaciones": [
-      "Barrister's clerk",
-      "Monitored composite utilization"
-    ]
-  },
-  {
-    "_id": "empleado_65",
-    "empleado_id": "empleado_65",
-    "animales_asignados": [
-      "Adam",
-      "Molly",
-      "Katherine",
-      "Traci",
-      "Joshua",
-      "Nancy",
-      "Timothy",
-      "Katherine"
-    ],
-    "certificaciones": [
-      "Musician",
-      "Cross-group 5thgeneration model"
+      "Fast food restaurant manager",
+      "Object-based well-modulated strategy"
     ]
   },
   {
     "_id": "empleado_36",
     "empleado_id": "empleado_36",
     "animales_asignados": [
-      "Richard",
-      "Holly",
-      "Kimberly",
-      "Jason",
-      "Jenny",
-      "Mary",
-      "Sheryl",
-      "Bethany",
-      "Kristi"
-    ],
-    "certificaciones": [
-      "Financial risk analyst",
-      "Virtual asymmetric product"
-    ]
-  },
-  {
-    "_id": "empleado_18",
-    "empleado_id": "empleado_18",
-    "animales_asignados": [
-      "Jason",
-      "Erica",
-      "Scott",
-      "Nicholas",
-      "Erin",
-      "Kevin",
-      "Andrea",
-      "Susan"
-    ],
-    "certificaciones": [
-      "Translator",
-      "Sharable object-oriented portal"
-    ]
-  },
-  {
-    "_id": "empleado_54",
-    "empleado_id": "empleado_54",
-    "animales_asignados": [
-      "Kenneth",
-      "David",
-      "Michael",
-      "Joanne",
-      "Krystal",
-      "Crystal",
-      "James",
-      "Patricia",
-      "Shannon",
-      "Adrienne",
-      "Christine"
-    ],
-    "certificaciones": [
-      "Travel agency manager",
-      "Re-engineered systematic parallelism"
-    ]
-  },
-  {
-    "_id": "empleado_82",
-    "empleado_id": "empleado_82",
-    "animales_asignados": [
-      "Mark",
-      "William",
-      "Melissa",
-      "Patrick",
-      "Alexis",
-      "Elizabeth",
-      "Ronald",
-      "Charles"
-    ],
-    "certificaciones": [
-      "Secondary school teacher",
-      "Inverse real-time paradigm"
-    ]
-  },
-  {
-    "_id": "empleado_92",
-    "empleado_id": "empleado_92",
-    "animales_asignados": [
-      "Benjamin",
-      "Curtis",
-      "John",
-      "Melissa",
-      "Michael",
-      "Janet",
-      "Kimberly",
-      "Jennifer"
-    ],
-    "certificaciones": [
-      "Chief Operating Officer",
-      "Progressive radical implementation"
-    ]
-  },
-  {
-    "_id": "empleado_46",
-    "empleado_id": "empleado_46",
-    "animales_asignados": [
-      "Andrea",
-      "Stephanie",
-      "Ronald",
-      "Taylor",
-      "Larry",
-      "Julie",
-      "Erin"
-    ],
-    "certificaciones": [
-      "Futures trader",
-      "Expanded dedicated strategy"
-    ]
-  },
-  {
-    "_id": "empleado_47",
-    "empleado_id": "empleado_47",
-    "animales_asignados": [
-      "Whitney",
-      "Jacqueline",
-      "James",
-      "James",
-      "Jenny",
-      "Angela",
-      "Cody"
-    ],
-    "certificaciones": [
-      "Production assistant, television",
-      "Horizontal asymmetric knowledge user"
-    ]
-  },
-  {
-    "_id": "empleado_10",
-    "empleado_id": "empleado_10",
-    "animales_asignados": [
-      "Joanne",
-      "Jessica",
-      "Albert",
-      "Stacey",
-      "Bethany",
-      "Troy"
-    ],
-    "certificaciones": [
-      "Armed forces technical officer",
-      "Intuitive responsive toolset"
-    ]
-  },
-  {
-    "_id": "empleado_45",
-    "empleado_id": "empleado_45",
-    "animales_asignados": [
-      "Christopher",
-      "Alexis",
-      "Carrie",
-      "Alexa",
-      "Sarah",
       "James",
       "Cody",
-      "Shannon"
+      "Christopher",
+      "Sarah",
+      "Gary",
+      "Marcia",
+      "Erica"
     ],
     "certificaciones": [
-      "Chief Financial Officer",
-      "Public-key human-resource hub"
+      "Copywriter, advertising",
+      "Multi-tiered multi-state task-force"
+    ]
+  },
+  {
+    "_id": "empleado_94",
+    "empleado_id": "empleado_94",
+    "animales_asignados": [
+      "Stephanie",
+      "Noah",
+      "Sarah",
+      "Toni",
+      "Katrina",
+      "Steven"
+    ],
+    "certificaciones": [
+      "Market researcher",
+      "Secured stable strategy"
     ]
   },
   {
     "_id": "empleado_93",
     "empleado_id": "empleado_93",
     "animales_asignados": [
-      "Amanda",
-      "Vincent",
-      "Gavin",
-      "Debra",
-      "Amber",
-      "Rebecca"
-    ],
-    "certificaciones": [
-      "Dispensing optician",
-      "Adaptive foreground core"
-    ]
-  },
-  {
-    "_id": "empleado_22",
-    "empleado_id": "empleado_22",
-    "animales_asignados": [
-      "Roberto",
-      "Eugene",
-      "Megan",
-      "Meagan",
-      "Summer",
-      "Laura"
-    ],
-    "certificaciones": [
-      "Fine artist",
-      "Robust composite toolset"
-    ]
-  },
-  {
-    "_id": "empleado_53",
-    "empleado_id": "empleado_53",
-    "animales_asignados": [
-      "Zachary",
-      "Timothy",
-      "Matthew",
-      "Brandon"
-    ],
-    "certificaciones": [
-      "Office manager",
-      "Future-proofed maximized task-force"
-    ]
-  },
-  {
-    "_id": "empleado_81",
-    "empleado_id": "empleado_81",
-    "animales_asignados": [
-      "Jacqueline",
+      "Robert",
+      "Ricardo",
+      "Cynthia",
+      "Theodore",
       "Michael",
-      "Jason",
-      "Wayne",
-      "Jenna",
-      "Tracy",
-      "Christine"
+      "Tyler",
+      "Caleb",
+      "Paul",
+      "Andrea"
     ],
     "certificaciones": [
-      "Curator",
-      "Customer-focused fresh-thinking conglomeration"
-    ]
-  },
-  {
-    "_id": "empleado_74",
-    "empleado_id": "empleado_74",
-    "animales_asignados": [
-      "Madison",
-      "Cheryl",
-      "Christopher",
-      "Danny",
-      "Tyler"
-    ],
-    "certificaciones": [
-      "Speech and language therapist",
-      "Streamlined impactful Local Area Network"
+      "Scientist, audiological",
+      "Enhanced human-resource projection"
     ]
   },
   {
     "_id": "empleado_1",
     "empleado_id": "empleado_1",
     "animales_asignados": [
-      "Roger",
-      "Molly",
-      "Terri",
-      "Jimmy",
-      "Bethany",
-      "Dylan",
-      "Debra",
-      "Brandon",
-      "Kristine"
+      "Scott",
+      "Rose",
+      "Christine",
+      "Stacey",
+      "Sandra",
+      "Justin",
+      "Taylor"
     ],
     "certificaciones": [
-      "Licensed conveyancer",
-      "Right-sized web-enabled orchestration"
+      "Land/geomatics surveyor",
+      "Secured mobile Graphic Interface"
+    ]
+  },
+  {
+    "_id": "empleado_87",
+    "empleado_id": "empleado_87",
+    "animales_asignados": [
+      "Robert",
+      "Charles",
+      "Jodi",
+      "Edward",
+      "Sherry",
+      "Tracy",
+      "Kristen",
+      "Benjamin",
+      "George",
+      "Amy"
+    ],
+    "certificaciones": [
+      "Designer, furniture",
+      "Switchable systemic contingency"
+    ]
+  },
+  {
+    "_id": "empleado_59",
+    "empleado_id": "empleado_59",
+    "animales_asignados": [
+      "Sandra",
+      "Kimberly",
+      "Emily",
+      "Thomas",
+      "Erica"
+    ],
+    "certificaciones": [
+      "Occupational therapist",
+      "Reactive secondary complexity"
+    ]
+  },
+  {
+    "_id": "empleado_16",
+    "empleado_id": "empleado_16",
+    "animales_asignados": [
+      "Michael",
+      "Yvonne",
+      "Robert",
+      "Matthew",
+      "Andrew"
+    ],
+    "certificaciones": [
+      "Occupational therapist",
+      "Seamless interactive function"
+    ]
+  },
+  {
+    "_id": "empleado_40",
+    "empleado_id": "empleado_40",
+    "animales_asignados": [
+      "Emily",
+      "Michael",
+      "Jessica",
+      "Edward",
+      "Taylor",
+      "Andrea",
+      "Ashley",
+      "Robin"
+    ],
+    "certificaciones": [
+      "Mudlogger",
+      "Customer-focused logistical emulation"
+    ]
+  },
+  {
+    "_id": "empleado_86",
+    "empleado_id": "empleado_86",
+    "animales_asignados": [
+      "Donna",
+      "David",
+      "John",
+      "Jennifer",
+      "Terri"
+    ],
+    "certificaciones": [
+      "Administrator, charities/voluntary organisations",
+      "Up-sized client-server extranet"
+    ]
+  },
+  {
+    "_id": "empleado_35",
+    "empleado_id": "empleado_35",
+    "animales_asignados": [
+      "Heather",
+      "Andre",
+      "Seth",
+      "Bethany",
+      "Janice",
+      "Katie"
+    ],
+    "certificaciones": [
+      "Phytotherapist",
+      "Function-based uniform collaboration"
+    ]
+  },
+  {
+    "_id": "empleado_95",
+    "empleado_id": "empleado_95",
+    "animales_asignados": [
+      "Karina",
+      "Mark",
+      "Julie",
+      "Austin",
+      "John",
+      "Robin",
+      "Kristen",
+      "Stacy",
+      "Michael",
+      "Justin",
+      "Stephen"
+    ],
+    "certificaciones": [
+      "Toxicologist",
+      "Customer-focused encompassing archive"
+    ]
+  },
+  {
+    "_id": "empleado_27",
+    "empleado_id": "empleado_27",
+    "animales_asignados": [
+      "Crystal",
+      "Jessica",
+      "Brooke",
+      "Christopher",
+      "David",
+      "Frederick",
+      "Patty",
+      "Caleb"
+    ],
+    "certificaciones": [
+      "Chartered management accountant",
+      "Open-source neutral project"
+    ]
+  },
+  {
+    "_id": "empleado_37",
+    "empleado_id": "empleado_37",
+    "animales_asignados": [
+      "Jeremy",
+      "Crystal",
+      "Lacey",
+      "Gary",
+      "Dennis",
+      "Andrea"
+    ],
+    "certificaciones": [
+      "Market researcher",
+      "Expanded bifurcated parallelism"
+    ]
+  },
+  {
+    "_id": "empleado_55",
+    "empleado_id": "empleado_55",
+    "animales_asignados": [
+      "Eric",
+      "Andrew"
+    ],
+    "certificaciones": [
+      "Publishing rights manager",
+      "Multi-channeled contextually-based service-desk"
+    ]
+  },
+  {
+    "_id": "empleado_29",
+    "empleado_id": "empleado_29",
+    "animales_asignados": [
+      "Scott",
+      "Mark",
+      "Rhonda",
+      "Shaun",
+      "Todd",
+      "Melissa",
+      "Kimberly",
+      "Shannon",
+      "Russell",
+      "Linda",
+      "David",
+      "Christopher",
+      "Stephanie",
+      "Terri",
+      "Dustin",
+      "Jenny"
+    ],
+    "certificaciones": [
+      "Naval architect",
+      "Customizable human-resource paradigm"
+    ]
+  },
+  {
+    "_id": "empleado_39",
+    "empleado_id": "empleado_39",
+    "animales_asignados": [
+      "Austin",
+      "Mark",
+      "Phillip",
+      "Tyler",
+      "John"
+    ],
+    "certificaciones": [
+      "Insurance account manager",
+      "Vision-oriented solution-oriented neural-net"
+    ]
+  },
+  {
+    "_id": "empleado_5",
+    "empleado_id": "empleado_5",
+    "animales_asignados": [
+      "Christopher",
+      "Emily",
+      "Noah",
+      "Jennifer",
+      "James",
+      "Marc",
+      "Kenneth",
+      "Drew",
+      "Christine",
+      "Robert",
+      "Tamara",
+      "Steven"
+    ],
+    "certificaciones": [
+      "Special effects artist",
+      "Monitored system-worthy concept"
+    ]
+  },
+  {
+    "_id": "empleado_85",
+    "empleado_id": "empleado_85",
+    "animales_asignados": [
+      "Heather",
+      "Tiffany",
+      "Robert",
+      "Dean",
+      "Felicia",
+      "Jennifer"
+    ],
+    "certificaciones": [
+      "Conservation officer, historic buildings",
+      "Switchable grid-enabled encryption"
+    ]
+  },
+  {
+    "_id": "empleado_63",
+    "empleado_id": "empleado_63",
+    "animales_asignados": [
+      "Jennifer",
+      "Derrick",
+      "Amy",
+      "Sarah",
+      "Karen",
+      "Dwayne",
+      "Crystal",
+      "Adam"
+    ],
+    "certificaciones": [
+      "Environmental consultant",
+      "Synchronized encompassing portal"
+    ]
+  },
+  {
+    "_id": "empleado_30",
+    "empleado_id": "empleado_30",
+    "animales_asignados": [
+      "Anna",
+      "Rebecca",
+      "Emily",
+      "Mary",
+      "Katie",
+      "David",
+      "Sandy",
+      "Steven",
+      "Rodney",
+      "Caleb",
+      "Catherine"
+    ],
+    "certificaciones": [
+      "Nurse, children's",
+      "Proactive empowering forecast"
+    ]
+  },
+  {
+    "_id": "empleado_49",
+    "empleado_id": "empleado_49",
+    "animales_asignados": [
+      "Kimberly",
+      "Kevin",
+      "Sarah",
+      "Gary",
+      "Amy"
+    ],
+    "certificaciones": [
+      "Games developer",
+      "Persevering radical adapter"
+    ]
+  },
+  {
+    "_id": "empleado_6",
+    "empleado_id": "empleado_6",
+    "animales_asignados": [
+      "Joyce",
+      "David",
+      "Dwayne",
+      "Angela",
+      "Donna",
+      "Jessica"
+    ],
+    "certificaciones": [
+      "Energy engineer",
+      "Team-oriented next generation moderator"
+    ]
+  },
+  {
+    "_id": "empleado_68",
+    "empleado_id": "empleado_68",
+    "animales_asignados": [
+      "Aaron",
+      "Robert",
+      "April",
+      "David",
+      "Nicholas"
+    ],
+    "certificaciones": [
+      "Housing manager/officer",
+      "Team-oriented empowering knowledgebase"
+    ]
+  },
+  {
+    "_id": "empleado_11",
+    "empleado_id": "empleado_11",
+    "animales_asignados": [
+      "Rachel",
+      "Andre",
+      "Yvonne",
+      "Tyler",
+      "Christopher",
+      "Brittany",
+      "Robert"
+    ],
+    "certificaciones": [
+      "Engineer, automotive",
+      "Progressive fault-tolerant help-desk"
+    ]
+  },
+  {
+    "_id": "empleado_56",
+    "empleado_id": "empleado_56",
+    "animales_asignados": [
+      "Robert",
+      "David",
+      "Sheila",
+      "Paula",
+      "Kevin",
+      "Lonnie",
+      "Jeremy",
+      "Kimberly",
+      "Phillip",
+      "David",
+      "Andrea",
+      "William",
+      "Stephen",
+      "Tiffany"
+    ],
+    "certificaciones": [
+      "Biomedical scientist",
+      "Function-based empowering orchestration"
+    ]
+  },
+  {
+    "_id": "empleado_72",
+    "empleado_id": "empleado_72",
+    "animales_asignados": [
+      "David",
+      "Ryan",
+      "Lynn",
+      "Scott",
+      "Ashley"
+    ],
+    "certificaciones": [
+      "Chief of Staff",
+      "Public-key system-worthy superstructure"
+    ]
+  },
+  {
+    "_id": "empleado_26",
+    "empleado_id": "empleado_26",
+    "animales_asignados": [
+      "Jared",
+      "Rhonda",
+      "Yvette",
+      "Gregory",
+      "Shannon",
+      "Steven",
+      "Gregory",
+      "Seth",
+      "Jennifer",
+      "Paul",
+      "Paul",
+      "Nathaniel"
+    ],
+    "certificaciones": [
+      "Ship broker",
+      "Upgradable system-worthy instruction set"
+    ]
+  },
+  {
+    "_id": "empleado_98",
+    "empleado_id": "empleado_98",
+    "animales_asignados": [
+      "Charles",
+      "Scott",
+      "Victoria",
+      "Jessica"
+    ],
+    "certificaciones": [
+      "Engineer, structural",
+      "Switchable dedicated analyzer"
+    ]
+  },
+  {
+    "_id": "empleado_17",
+    "empleado_id": "empleado_17",
+    "animales_asignados": [
+      "Christopher",
+      "Barbara",
+      "Kimberly",
+      "Dennis",
+      "Tracy",
+      "Rachael"
+    ],
+    "certificaciones": [
+      "Horticulturist, amenity",
+      "Decentralized leadingedge workforce"
+    ]
+  },
+  {
+    "_id": "empleado_10",
+    "empleado_id": "empleado_10",
+    "animales_asignados": [
+      "Barbara",
+      "Patty",
+      "Frederick",
+      "John",
+      "Jessica",
+      "Kimberly",
+      "Michelle"
+    ],
+    "certificaciones": [
+      "Ranger/warden",
+      "Visionary 3rdgeneration adapter"
+    ]
+  },
+  {
+    "_id": "empleado_44",
+    "empleado_id": "empleado_44",
+    "animales_asignados": [
+      "Karina",
+      "Shaun",
+      "Scott",
+      "Emily",
+      "Jeffrey",
+      "Katie",
+      "Teresa",
+      "David",
+      "Ashley",
+      "Anthony",
+      "Gary",
+      "Anthony",
+      "Taylor",
+      "Michelle",
+      "Steven",
+      "Jenny"
+    ],
+    "certificaciones": [
+      "Nature conservation officer",
+      "Seamless logistical database"
+    ]
+  },
+  {
+    "_id": "empleado_31",
+    "empleado_id": "empleado_31",
+    "animales_asignados": [
+      "Gregory",
+      "Kevin",
+      "Christy",
+      "Mary",
+      "Teresa",
+      "Andrew",
+      "Jessica"
+    ],
+    "certificaciones": [
+      "Investment banker, operational",
+      "Inverse well-modulated middleware"
+    ]
+  },
+  {
+    "_id": "empleado_25",
+    "empleado_id": "empleado_25",
+    "animales_asignados": [
+      "Michelle",
+      "Gail",
+      "Jodi",
+      "Angela",
+      "Amber",
+      "Anthony",
+      "Kevin"
+    ],
+    "certificaciones": [
+      "Oncologist",
+      "Up-sized high-level attitude"
+    ]
+  },
+  {
+    "_id": "empleado_47",
+    "empleado_id": "empleado_47",
+    "animales_asignados": [
+      "Maria",
+      "Patricia",
+      "Kenneth",
+      "Shannon",
+      "Daniel",
+      "Christopher",
+      "Gerald",
+      "Laura"
+    ],
+    "certificaciones": [
+      "Learning mentor",
+      "Innovative coherent methodology"
+    ]
+  },
+  {
+    "_id": "empleado_51",
+    "empleado_id": "empleado_51",
+    "animales_asignados": [
+      "Jared",
+      "Anna",
+      "Joseph",
+      "Todd",
+      "Dean",
+      "Ashley",
+      "Keith",
+      "Steven"
+    ],
+    "certificaciones": [
+      "Tourism officer",
+      "Virtual zero-defect instruction set"
+    ]
+  },
+  {
+    "_id": "empleado_61",
+    "empleado_id": "empleado_61",
+    "animales_asignados": [
+      "Sandra",
+      "Ricardo",
+      "Randy",
+      "Justin",
+      "Brandon",
+      "Amber",
+      "Jessica",
+      "Norma",
+      "Eric",
+      "Jessica",
+      "Adam"
+    ],
+    "certificaciones": [
+      "Banker",
+      "Up-sized zero tolerance orchestration"
+    ]
+  },
+  {
+    "_id": "empleado_46",
+    "empleado_id": "empleado_46",
+    "animales_asignados": [
+      "David",
+      "John",
+      "Michael",
+      "Cody",
+      "Jenny",
+      "Jeffrey",
+      "Shawna"
+    ],
+    "certificaciones": [
+      "Sales professional, IT",
+      "Reverse-engineered motivating database"
+    ]
+  },
+  {
+    "_id": "empleado_9",
+    "empleado_id": "empleado_9",
+    "animales_asignados": [
+      "Carol",
+      "Daniel",
+      "Kimberly",
+      "Christopher"
+    ],
+    "certificaciones": [
+      "Medical laboratory scientific officer",
+      "Fundamental mobile orchestration"
+    ]
+  },
+  {
+    "_id": "empleado_34",
+    "empleado_id": "empleado_34",
+    "animales_asignados": [
+      "Yvette",
+      "Katrina",
+      "Tiffany"
+    ],
+    "certificaciones": [
+      "Education administrator",
+      "Assimilated demand-driven definition"
+    ]
+  },
+  {
+    "_id": "empleado_4",
+    "empleado_id": "empleado_4",
+    "animales_asignados": [
+      "Kimberly",
+      "James",
+      "Emily",
+      "Gary",
+      "Justin",
+      "Karen",
+      "Jennifer",
+      "Steven"
+    ],
+    "certificaciones": [
+      "Youth worker",
+      "Focused actuating infrastructure"
+    ]
+  },
+  {
+    "_id": "empleado_67",
+    "empleado_id": "empleado_67",
+    "animales_asignados": [
+      "Gary",
+      "Samantha",
+      "Karen",
+      "Rose",
+      "Michael",
+      "Chelsea",
+      "Bruce"
+    ],
+    "certificaciones": [
+      "Designer, television/film set",
+      "User-friendly mobile pricing structure"
+    ]
+  },
+  {
+    "_id": "empleado_8",
+    "empleado_id": "empleado_8",
+    "animales_asignados": [
+      "Billy",
+      "Kimberly",
+      "Paula",
+      "Robert",
+      "Cheryl",
+      "Brad",
+      "Sue"
+    ],
+    "certificaciones": [
+      "Dramatherapist",
+      "Business-focused bi-directional help-desk"
+    ]
+  },
+  {
+    "_id": "empleado_58",
+    "empleado_id": "empleado_58",
+    "animales_asignados": [
+      "Natalie",
+      "Samantha",
+      "Brandi",
+      "Daniel",
+      "David",
+      "Steven",
+      "Catherine",
+      "Taylor"
+    ],
+    "certificaciones": [
+      "Sound technician, broadcasting/film/video",
+      "Intuitive exuding complexity"
+    ]
+  },
+  {
+    "_id": "empleado_99",
+    "empleado_id": "empleado_99",
+    "animales_asignados": [
+      "Richard",
+      "Arthur",
+      "Jeffrey",
+      "Angela",
+      "Gary",
+      "Donna"
+    ],
+    "certificaciones": [
+      "Barista",
+      "Optional exuding synergy"
+    ]
+  },
+  {
+    "_id": "empleado_65",
+    "empleado_id": "empleado_65",
+    "animales_asignados": [
+      "Arthur",
+      "Lacey",
+      "Bryan",
+      "Sue",
+      "Robin",
+      "Katie"
+    ],
+    "certificaciones": [
+      "Games developer",
+      "Ergonomic mission-critical firmware"
     ]
   }
 ]
