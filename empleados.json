@@ -1,0 +1,702 @@
+[
+  {
+    "_id": "empleado_0",
+    "nombre": "Susan Bass",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_tonight",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_1",
+    "nombre": "Angela Martin MD",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_example",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_2",
+    "nombre": "Richard Flores",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_example",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_3",
+    "nombre": "Sandra Rivera",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_next",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_4",
+    "nombre": "Crystal Webb",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_necessary",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_5",
+    "nombre": "Jason Palmer",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_example",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_6",
+    "nombre": "Gabriel Saunders",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_next",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_7",
+    "nombre": "Raymond Peterson",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_attention",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_8",
+    "nombre": "Alexa Leach",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_9",
+    "nombre": "Megan Larsen",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_10",
+    "nombre": "Amanda Elliott",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_attention",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_11",
+    "nombre": "Lawrence Carpenter",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_12",
+    "nombre": "Brittany Paul",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_fall",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_13",
+    "nombre": "Amanda Chapman",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_fall",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_14",
+    "nombre": "Dr. John Medina",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_necessary",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_15",
+    "nombre": "Lisa Lee",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_represent",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_16",
+    "nombre": "Dawn Blake",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_next",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_17",
+    "nombre": "Michael Ramirez",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_example",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_18",
+    "nombre": "Tammy Zamora",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_term",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_19",
+    "nombre": "John Curtis",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_attention",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_20",
+    "nombre": "Tammy White",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_21",
+    "nombre": "Kenneth James",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_tonight",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_22",
+    "nombre": "Nicholas Alexander",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_represent",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_23",
+    "nombre": "Robert Mcknight",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_term",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_24",
+    "nombre": "Michael Zhang",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_necessary",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_25",
+    "nombre": "Michael Davis",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_necessary",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_26",
+    "nombre": "Isabel Riley",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_example",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_27",
+    "nombre": "Dawn Lewis",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_28",
+    "nombre": "Stephanie Leon",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_represent",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_29",
+    "nombre": "Robert Graves",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_term",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_30",
+    "nombre": "Mr. Thomas Smith Jr.",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_example",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_31",
+    "nombre": "Jack Moreno",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_term",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_32",
+    "nombre": "Samantha Fisher",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_tonight",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_33",
+    "nombre": "Kevin Barker",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_term",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_34",
+    "nombre": "Tanya Gutierrez",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_next",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_35",
+    "nombre": "Michael Trujillo",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_fall",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_36",
+    "nombre": "Joshua Hill",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_represent",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_37",
+    "nombre": "Sandra Wells",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_next",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_38",
+    "nombre": "Valerie Blair",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_next",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_39",
+    "nombre": "Kimberly Smith",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_40",
+    "nombre": "Natalie Richards",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_example",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_41",
+    "nombre": "Kim Cervantes",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_represent",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_42",
+    "nombre": "Brittany Gardner",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_represent",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_43",
+    "nombre": "Bonnie Vaughn",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_44",
+    "nombre": "Ryan Pearson",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_term",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_45",
+    "nombre": "Mr. Travis Lee",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_example",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_46",
+    "nombre": "George Mcdonald",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_term",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_47",
+    "nombre": "Courtney Smith",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_term",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_48",
+    "nombre": "Deanna Romero",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_attention",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_49",
+    "nombre": "Lisa Castaneda",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_example",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_50",
+    "nombre": "Megan Bailey",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_attention",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_51",
+    "nombre": "William Aguilar",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_example",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_52",
+    "nombre": "Jennifer Ford",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_Mr",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_53",
+    "nombre": "Julian Barry",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_fall",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_54",
+    "nombre": "Robert Robertson",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_example",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_55",
+    "nombre": "Victor Arellano",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_necessary",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_56",
+    "nombre": "Timothy Abbott",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_attention",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_57",
+    "nombre": "Jamie Hayes",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_example",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_58",
+    "nombre": "Rachel Lawrence",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_example",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_59",
+    "nombre": "Bryan Wheeler",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_represent",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_60",
+    "nombre": "Christopher Bennett",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_example",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_61",
+    "nombre": "Christine Hernandez",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_next",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_62",
+    "nombre": "Mary Carter",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_tonight",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_63",
+    "nombre": "Richard Cook",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_Mr",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_64",
+    "nombre": "Mr. Benjamin Moss",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_attention",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_65",
+    "nombre": "Steven Moore",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_next",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_66",
+    "nombre": "Brittney Harris",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_example",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_67",
+    "nombre": "Gary Wilson",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_attention",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_68",
+    "nombre": "Charles Carroll",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_necessary",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_69",
+    "nombre": "Ronald Bridges",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_term",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_70",
+    "nombre": "Brenda King",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_attention",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_71",
+    "nombre": "Maria Foster",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_necessary",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_72",
+    "nombre": "Michelle Daniels",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_necessary",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_73",
+    "nombre": "Edward Smith",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_represent",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_74",
+    "nombre": "Erica Benton",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_Mr",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_75",
+    "nombre": "Joanna Walsh",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_76",
+    "nombre": "Teresa Robertson",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_term",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_77",
+    "nombre": "David Martinez",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_necessary",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_78",
+    "nombre": "Jason Nelson",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_tonight",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_79",
+    "nombre": "Christina Estes",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_attention",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_80",
+    "nombre": "Samuel Rodriguez",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_example",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_81",
+    "nombre": "Donna Hatfield",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_next",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_82",
+    "nombre": "Jesse Mcmahon",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_83",
+    "nombre": "Kevin Ferguson",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_attention",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_84",
+    "nombre": "Nicole Patton",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_represent",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_85",
+    "nombre": "Mary Stokes",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_tonight",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_86",
+    "nombre": "Edward Doyle",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_87",
+    "nombre": "Mariah Miranda",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_tonight",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_88",
+    "nombre": "Edward Gutierrez",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_term",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_89",
+    "nombre": "Steven Thomas",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_represent",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_90",
+    "nombre": "Wanda Marsh",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_91",
+    "nombre": "Tyrone Henderson",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_Mr",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_92",
+    "nombre": "Tracy Ball",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_term",
+    "especialidad": "Mamíferos acuáticos"
+  },
+  {
+    "_id": "empleado_93",
+    "nombre": "Thomas Scott",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_represent",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_94",
+    "nombre": "Terry Roman",
+    "rol": "Especialista en aves",
+    "zona_asignada": "zona_Mr",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_95",
+    "nombre": "Samuel Nelson",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_choice",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_96",
+    "nombre": "Ashley Martin",
+    "rol": "Veterinario",
+    "zona_asignada": "zona_tonight",
+    "especialidad": "Reptiles venenosos"
+  },
+  {
+    "_id": "empleado_97",
+    "nombre": "Karina Neal",
+    "rol": "Guía de visitantes",
+    "zona_asignada": "zona_Mr",
+    "especialidad": "Felinos grandes"
+  },
+  {
+    "_id": "empleado_98",
+    "nombre": "Nichole Campos",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_term",
+    "especialidad": "Aves tropicales"
+  },
+  {
+    "_id": "empleado_99",
+    "nombre": "Charles Schroeder",
+    "rol": "Cuidador de carnívoros",
+    "zona_asignada": "zona_necessary",
+    "especialidad": "Aves tropicales"
+  }
+]

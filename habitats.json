@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "habitat_tend",
+    "nombre": "Leave de Behavior",
+    "tipo": "Acuático",
+    "zona_id": "zona_fall",
+    "capacidad": 10
+  },
+  {
+    "_id": "habitat_decide",
+    "nombre": "My de Particular",
+    "tipo": "Acuático",
+    "zona_id": "zona_represent",
+    "capacidad": 6
+  },
+  {
+    "_id": "habitat_prevent",
+    "nombre": "Owner de Oil",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_example",
+    "capacidad": 4
+  },
+  {
+    "_id": "habitat_with",
+    "nombre": "Partner de People",
+    "tipo": "Cerrado",
+    "zona_id": "zona_Mr",
+    "capacidad": 3
+  },
+  {
+    "_id": "habitat_child",
+    "nombre": "Amount de Beat",
+    "tipo": "Acuático",
+    "zona_id": "zona_next",
+    "capacidad": 5
+  },
+  {
+    "_id": "habitat_mission",
+    "nombre": "Give de Notice",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_necessary",
+    "capacidad": 4
+  },
+  {
+    "_id": "habitat_necessary",
+    "nombre": "Its de Kitchen",
+    "tipo": "Acuático",
+    "zona_id": "zona_attention",
+    "capacidad": 8
+  },
+  {
+    "_id": "habitat_animal",
+    "nombre": "Worker de Per",
+    "tipo": "Acuático",
+    "zona_id": "zona_necessary",
+    "capacidad": 4
+  },
+  {
+    "_id": "habitat_person",
+    "nombre": "National de Price",
+    "tipo": "Acuático",
+    "zona_id": "zona_Mr",
+    "capacidad": 5
+  },
+  {
+    "_id": "habitat_it",
+    "nombre": "Others de Account",
+    "tipo": "Acuático",
+    "zona_id": "zona_example",
+    "capacidad": 7
+  },
+  {
+    "_id": "habitat_current",
+    "nombre": "International de Guess",
+    "tipo": "Cerrado",
+    "zona_id": "zona_Mr",
+    "capacidad": 8
+  },
+  {
+    "_id": "habitat_themselves",
+    "nombre": "Coach de Know",
+    "tipo": "Cerrado",
+    "zona_id": "zona_necessary",
+    "capacidad": 5
+  },
+  {
+    "_id": "habitat_nor",
+    "nombre": "College de Might",
+    "tipo": "Acuático",
+    "zona_id": "zona_choice",
+    "capacidad": 7
+  },
+  {
+    "_id": "habitat_age",
+    "nombre": "Impact de Wear",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_tonight",
+    "capacidad": 3
+  },
+  {
+    "_id": "habitat_stage",
+    "nombre": "Issue de Hope",
+    "tipo": "Acuático",
+    "zona_id": "zona_tonight",
+    "capacidad": 9
+  },
+  {
+    "_id": "habitat_mouth",
+    "nombre": "Item de Program",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_tonight",
+    "capacidad": 10
+  },
+  {
+    "_id": "habitat_lawyer",
+    "nombre": "Huge de East",
+    "tipo": "Cerrado",
+    "zona_id": "zona_next",
+    "capacidad": 4
+  },
+  {
+    "_id": "habitat_class",
+    "nombre": "Country de Carry",
+    "tipo": "Acuático",
+    "zona_id": "zona_represent",
+    "capacidad": 4
+  },
+  {
+    "_id": "habitat_reach",
+    "nombre": "Tree de Prepare",
+    "tipo": "Cerrado",
+    "zona_id": "zona_term",
+    "capacidad": 6
+  },
+  {
+    "_id": "habitat_with",
+    "nombre": "Call de Age",
+    "tipo": "Acuático",
+    "zona_id": "zona_example",
+    "capacidad": 6
+  }
+]

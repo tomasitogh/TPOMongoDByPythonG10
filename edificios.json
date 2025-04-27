@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "edificio_same",
+    "nombre": "Martinez Group",
+    "tipo": "Administrativo",
+    "zona_id": "zona_fall"
+  },
+  {
+    "_id": "edificio_early",
+    "nombre": "York-Mccall",
+    "tipo": "Tienda",
+    "zona_id": "zona_Mr"
+  },
+  {
+    "_id": "edificio_technology",
+    "nombre": "Hunter-Wilson",
+    "tipo": "Administrativo",
+    "zona_id": "zona_fall"
+  },
+  {
+    "_id": "edificio_next",
+    "nombre": "Barton, Porter and Williamson",
+    "tipo": "Administrativo",
+    "zona_id": "zona_Mr"
+  },
+  {
+    "_id": "edificio_two",
+    "nombre": "Ward, Alexander and Wilson",
+    "tipo": "Restaurante",
+    "zona_id": "zona_tonight"
+  },
+  {
+    "_id": "edificio_paper",
+    "nombre": "Case Group",
+    "tipo": "Área de espectáculos",
+    "zona_id": "zona_next"
+  },
+  {
+    "_id": "edificio_style",
+    "nombre": "Newman-Ellison",
+    "tipo": "Administrativo",
+    "zona_id": "zona_necessary"
+  },
+  {
+    "_id": "edificio_leave",
+    "nombre": "Goodman-Watkins",
+    "tipo": "Restaurante",
+    "zona_id": "zona_example"
+  },
+  {
+    "_id": "edificio_table",
+    "nombre": "Peterson, Turner and Waters",
+    "tipo": "Centro Médico",
+    "zona_id": "zona_choice"
+  },
+  {
+    "_id": "edificio_blue",
+    "nombre": "Sullivan, Lewis and Long",
+    "tipo": "Tienda",
+    "zona_id": "zona_choice"
+  }
+]

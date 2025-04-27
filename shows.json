@@ -1,0 +1,655 @@
+[
+  {
+    "_id": {
+      "$oid": "be3b00c6-5bf4-431f-9f48-f86d646c6854"
+    },
+    "nombre": "Inverse optimizing analyzer",
+    "descripcion": "Head behavior which personal very low that half.",
+    "edificio_id": "edificio_two",
+    "animales_participantes": [
+      "Tonya"
+    ],
+    "empleados_responsables": [
+      "empleado_57"
+    ],
+    "horario": "11:00"
+  },
+  {
+    "_id": {
+      "$oid": "83da566f-9d84-44e8-a419-963b8fc6ff07"
+    },
+    "nombre": "Team-oriented tangible function",
+    "descripcion": "Book century true raise walk.",
+    "edificio_id": "edificio_blue",
+    "animales_participantes": [
+      "Dana",
+      "Christopher",
+      "Jennifer"
+    ],
+    "empleados_responsables": [
+      "empleado_2",
+      "empleado_80"
+    ],
+    "horario": "18:30"
+  },
+  {
+    "_id": {
+      "$oid": "f708e1de-2324-427d-a4a8-24dedfef447f"
+    },
+    "nombre": "Reverse-engineered analyzing policy",
+    "descripcion": "Away quality she little behind analysis.",
+    "edificio_id": "edificio_paper",
+    "animales_participantes": [
+      "Joshua"
+    ],
+    "empleados_responsables": [
+      "empleado_98",
+      "empleado_51"
+    ],
+    "horario": "16:00"
+  },
+  {
+    "_id": {
+      "$oid": "480b959e-d9c0-4dea-bbbd-4ecc72b18694"
+    },
+    "nombre": "Diverse global website",
+    "descripcion": "Expert behind large matter prevent week car.",
+    "edificio_id": "edificio_next",
+    "animales_participantes": [
+      "Elizabeth",
+      "Derek"
+    ],
+    "empleados_responsables": [
+      "empleado_7",
+      "empleado_51"
+    ],
+    "horario": "18:30"
+  },
+  {
+    "_id": {
+      "$oid": "49160bb2-4d36-4402-bd3f-a48a2ae3fc26"
+    },
+    "nombre": "Grass-roots multi-state definition",
+    "descripcion": "Deal scientist building consider.",
+    "edificio_id": "edificio_paper",
+    "animales_participantes": [
+      "James",
+      "Andrew"
+    ],
+    "empleados_responsables": [
+      "empleado_74",
+      "empleado_30"
+    ],
+    "horario": "12:30"
+  },
+  {
+    "_id": {
+      "$oid": "cd1cf2f3-16ea-482f-8439-909e3a71a44b"
+    },
+    "nombre": "Integrated object-oriented protocol",
+    "descripcion": "Heart care just personal one practice.",
+    "edificio_id": "edificio_paper",
+    "animales_participantes": [
+      "Nicole",
+      "Kayla"
+    ],
+    "empleados_responsables": [
+      "empleado_30",
+      "empleado_19"
+    ],
+    "horario": "15:00"
+  },
+  {
+    "_id": {
+      "$oid": "f9c22d77-43cd-4646-bdfd-d26de8a07d70"
+    },
+    "nombre": "Triple-buffered content-based contingency",
+    "descripcion": "Official however will sort military whole yet.",
+    "edificio_id": "edificio_blue",
+    "animales_participantes": [
+      "Kimberly",
+      "Taylor"
+    ],
+    "empleados_responsables": [
+      "empleado_64",
+      "empleado_4"
+    ],
+    "horario": "14:30"
+  },
+  {
+    "_id": {
+      "$oid": "ff98ceef-70d0-4ef0-95bf-0c56a4df67a3"
+    },
+    "nombre": "Future-proofed context-sensitive workforce",
+    "descripcion": "Minute manager serve issue power.",
+    "edificio_id": "edificio_table",
+    "animales_participantes": [
+      "Alexandria"
+    ],
+    "empleados_responsables": [
+      "empleado_7",
+      "empleado_54"
+    ],
+    "horario": "11:30"
+  },
+  {
+    "_id": {
+      "$oid": "49cbaf7e-a5e5-4ceb-a86b-f5da5abe5f33"
+    },
+    "nombre": "Secured bandwidth-monitored application",
+    "descripcion": "Throw he store note.",
+    "edificio_id": "edificio_paper",
+    "animales_participantes": [
+      "James",
+      "Connie"
+    ],
+    "empleados_responsables": [
+      "empleado_55"
+    ],
+    "horario": "17:00"
+  },
+  {
+    "_id": {
+      "$oid": "5ff696e5-3be1-4071-a9a6-0f56a8d1ba5c"
+    },
+    "nombre": "Public-key value-added Local Area Network",
+    "descripcion": "Once behind often north body consumer.",
+    "edificio_id": "edificio_blue",
+    "animales_participantes": [
+      "Joshua",
+      "Heather",
+      "Kimberly"
+    ],
+    "empleados_responsables": [
+      "empleado_65",
+      "empleado_9"
+    ],
+    "horario": "18:30"
+  },
+  {
+    "_id": {
+      "$oid": "ebe8c8fa-425d-4338-a794-a16ad0f2e0dc"
+    },
+    "nombre": "Balanced tangible middleware",
+    "descripcion": "Shake way together indeed.",
+    "edificio_id": "edificio_style",
+    "animales_participantes": [
+      "David"
+    ],
+    "empleados_responsables": [
+      "empleado_72",
+      "empleado_55"
+    ],
+    "horario": "15:30"
+  },
+  {
+    "_id": {
+      "$oid": "7aed2b76-2f42-4a6a-8733-9aa32dcc980e"
+    },
+    "nombre": "Face-to-face modular instruction set",
+    "descripcion": "Ground find organization woman.",
+    "edificio_id": "edificio_leave",
+    "animales_participantes": [
+      "Sara",
+      "Terrence",
+      "Elizabeth"
+    ],
+    "empleados_responsables": [
+      "empleado_49",
+      "empleado_35"
+    ],
+    "horario": "10:00"
+  },
+  {
+    "_id": {
+      "$oid": "198f3c14-11bf-4acb-a3f1-682b23bedaf6"
+    },
+    "nombre": "Multi-tiered motivating contingency",
+    "descripcion": "White prove whom foot able brother.",
+    "edificio_id": "edificio_next",
+    "animales_participantes": [
+      "Karen"
+    ],
+    "empleados_responsables": [
+      "empleado_77"
+    ],
+    "horario": "10:00"
+  },
+  {
+    "_id": {
+      "$oid": "b150cf0a-3ed9-415f-8260-5d4d9f57e05b"
+    },
+    "nombre": "Persistent bifurcated migration",
+    "descripcion": "Not customer week shake son nor half.",
+    "edificio_id": "edificio_paper",
+    "animales_participantes": [
+      "Richard"
+    ],
+    "empleados_responsables": [
+      "empleado_27"
+    ],
+    "horario": "15:00"
+  },
+  {
+    "_id": {
+      "$oid": "63a56f69-139b-43cb-a39d-6a1215dceae5"
+    },
+    "nombre": "Front-line empowering throughput",
+    "descripcion": "Before church poor will field.",
+    "edificio_id": "edificio_early",
+    "animales_participantes": [
+      "James",
+      "Michael"
+    ],
+    "empleados_responsables": [
+      "empleado_44"
+    ],
+    "horario": "18:30"
+  },
+  {
+    "_id": {
+      "$oid": "69f7c297-477e-4692-a29c-074b1a1cff26"
+    },
+    "nombre": "Re-contextualized reciprocal software",
+    "descripcion": "Notice message picture party.",
+    "edificio_id": "edificio_blue",
+    "animales_participantes": [
+      "Stephen"
+    ],
+    "empleados_responsables": [
+      "empleado_14",
+      "empleado_50"
+    ],
+    "horario": "15:00"
+  },
+  {
+    "_id": {
+      "$oid": "0c8ea572-29fc-45bb-9d0a-e9121c64959e"
+    },
+    "nombre": "Focused interactive function",
+    "descripcion": "Similar international I discover bit agree single.",
+    "edificio_id": "edificio_two",
+    "animales_participantes": [
+      "Kenneth",
+      "Taylor"
+    ],
+    "empleados_responsables": [
+      "empleado_67"
+    ],
+    "horario": "14:00"
+  },
+  {
+    "_id": {
+      "$oid": "fbd88a37-071f-459a-9810-e457a1e35ebb"
+    },
+    "nombre": "Customer-focused well-modulated framework",
+    "descripcion": "In design bar indicate usually.",
+    "edificio_id": "edificio_technology",
+    "animales_participantes": [
+      "Larry"
+    ],
+    "empleados_responsables": [
+      "empleado_96"
+    ],
+    "horario": "17:30"
+  },
+  {
+    "_id": {
+      "$oid": "7c61a3dc-536c-46d8-8792-e75c15886fe8"
+    },
+    "nombre": "Organic web-enabled functionalities",
+    "descripcion": "Day pattern page quite officer.",
+    "edificio_id": "edificio_table",
+    "animales_participantes": [
+      "Kimberly",
+      "Adam"
+    ],
+    "empleados_responsables": [
+      "empleado_65",
+      "empleado_62"
+    ],
+    "horario": "17:00"
+  },
+  {
+    "_id": {
+      "$oid": "f973d9ea-3c04-4e3d-95e8-0f2f5fd187fb"
+    },
+    "nombre": "Digitized object-oriented matrices",
+    "descripcion": "Present point some this accept white thought.",
+    "edificio_id": "edificio_leave",
+    "animales_participantes": [
+      "Kirsten",
+      "David"
+    ],
+    "empleados_responsables": [
+      "empleado_38"
+    ],
+    "horario": "17:00"
+  },
+  {
+    "_id": {
+      "$oid": "cee26c28-f531-488c-b92e-5ee22450dc26"
+    },
+    "nombre": "Robust even-keeled algorithm",
+    "descripcion": "Religious author sit moment mention.",
+    "edificio_id": "edificio_two",
+    "animales_participantes": [
+      "Thomas",
+      "Todd",
+      "Katelyn"
+    ],
+    "empleados_responsables": [
+      "empleado_12"
+    ],
+    "horario": "15:00"
+  },
+  {
+    "_id": {
+      "$oid": "af558e2f-b625-411a-aad4-30b999f2decd"
+    },
+    "nombre": "Reverse-engineered encompassing complexity",
+    "descripcion": "Difficult finally society wind wear maintain control.",
+    "edificio_id": "edificio_two",
+    "animales_participantes": [
+      "Sara",
+      "Kirsten",
+      "Raymond"
+    ],
+    "empleados_responsables": [
+      "empleado_47"
+    ],
+    "horario": "17:30"
+  },
+  {
+    "_id": {
+      "$oid": "bbfe2735-8823-40d6-a4d4-7e0ba2dfd428"
+    },
+    "nombre": "Cloned real-time Internet solution",
+    "descripcion": "Which a you article if.",
+    "edificio_id": "edificio_technology",
+    "animales_participantes": [
+      "Michael",
+      "Jeffrey"
+    ],
+    "empleados_responsables": [
+      "empleado_74",
+      "empleado_92"
+    ],
+    "horario": "13:00"
+  },
+  {
+    "_id": {
+      "$oid": "de6f097c-e1e1-4b39-a5dd-609795d5a744"
+    },
+    "nombre": "Universal transitional contingency",
+    "descripcion": "Government off include deal nation they.",
+    "edificio_id": "edificio_same",
+    "animales_participantes": [
+      "Sabrina",
+      "Joseph",
+      "Valerie"
+    ],
+    "empleados_responsables": [
+      "empleado_89"
+    ],
+    "horario": "15:30"
+  },
+  {
+    "_id": {
+      "$oid": "46978161-1a1e-48fd-adec-8f77d8ec8b3f"
+    },
+    "nombre": "Object-based global productivity",
+    "descripcion": "Official table push quickly western able.",
+    "edificio_id": "edificio_next",
+    "animales_participantes": [
+      "Matthew"
+    ],
+    "empleados_responsables": [
+      "empleado_7"
+    ],
+    "horario": "16:00"
+  },
+  {
+    "_id": {
+      "$oid": "4f441ce1-ecab-47ae-93e6-d21926e93c1a"
+    },
+    "nombre": "Front-line bi-directional secured line",
+    "descripcion": "During huge white receive.",
+    "edificio_id": "edificio_style",
+    "animales_participantes": [
+      "Sean",
+      "Bradley",
+      "Rhonda"
+    ],
+    "empleados_responsables": [
+      "empleado_22",
+      "empleado_79"
+    ],
+    "horario": "15:30"
+  },
+  {
+    "_id": {
+      "$oid": "8d06003f-3519-4d52-abfe-e810889bccfb"
+    },
+    "nombre": "Advanced 6thgeneration Internet solution",
+    "descripcion": "Partner movement center several though free eye.",
+    "edificio_id": "edificio_leave",
+    "animales_participantes": [
+      "Jessica"
+    ],
+    "empleados_responsables": [
+      "empleado_82"
+    ],
+    "horario": "11:30"
+  },
+  {
+    "_id": {
+      "$oid": "629a8c3a-cff0-42f8-9c9f-27ceb4b28b15"
+    },
+    "nombre": "Profit-focused system-worthy installation",
+    "descripcion": "In per night response hit.",
+    "edificio_id": "edificio_early",
+    "animales_participantes": [
+      "Kenneth"
+    ],
+    "empleados_responsables": [
+      "empleado_50"
+    ],
+    "horario": "15:00"
+  },
+  {
+    "_id": {
+      "$oid": "f60d8de3-ee69-452f-a40d-f735bdcd4db7"
+    },
+    "nombre": "Adaptive impactful solution",
+    "descripcion": "Action herself front which area television bill.",
+    "edificio_id": "edificio_same",
+    "animales_participantes": [
+      "James",
+      "Mike"
+    ],
+    "empleados_responsables": [
+      "empleado_61"
+    ],
+    "horario": "10:30"
+  },
+  {
+    "_id": {
+      "$oid": "fd8a29ac-0f11-4f12-9ac1-75a5a4bba042"
+    },
+    "nombre": "Enhanced multi-state solution",
+    "descripcion": "Strong common answer short radio event true.",
+    "edificio_id": "edificio_leave",
+    "animales_participantes": [
+      "Alison",
+      "Matthew"
+    ],
+    "empleados_responsables": [
+      "empleado_96",
+      "empleado_27"
+    ],
+    "horario": "16:30"
+  },
+  {
+    "_id": {
+      "$oid": "3c1d1854-856d-419a-8b74-c01d7ec2ea85"
+    },
+    "nombre": "Persevering stable moderator",
+    "descripcion": "Structure people learn ask box blue kind.",
+    "edificio_id": "edificio_early",
+    "animales_participantes": [
+      "April"
+    ],
+    "empleados_responsables": [
+      "empleado_63",
+      "empleado_93"
+    ],
+    "horario": "12:00"
+  },
+  {
+    "_id": {
+      "$oid": "a4fb8762-aede-474b-a609-7f3a7bbb65bf"
+    },
+    "nombre": "Integrated optimal infrastructure",
+    "descripcion": "Admit industry play painting process writer.",
+    "edificio_id": "edificio_blue",
+    "animales_participantes": [
+      "Angela"
+    ],
+    "empleados_responsables": [
+      "empleado_91"
+    ],
+    "horario": "10:00"
+  },
+  {
+    "_id": {
+      "$oid": "1969a3ef-d033-4fb4-846f-ad5879a32c24"
+    },
+    "nombre": "Fully-configurable multimedia adapter",
+    "descripcion": "Every ground floor American case of blue.",
+    "edificio_id": "edificio_leave",
+    "animales_participantes": [
+      "Laura",
+      "Samuel",
+      "Kenneth"
+    ],
+    "empleados_responsables": [
+      "empleado_46",
+      "empleado_64"
+    ],
+    "horario": "12:00"
+  },
+  {
+    "_id": {
+      "$oid": "e65c3a2e-aff7-47af-89ca-24f9c4a66872"
+    },
+    "nombre": "Ameliorated mission-critical initiative",
+    "descripcion": "Who his garden back author man avoid.",
+    "edificio_id": "edificio_table",
+    "animales_participantes": [
+      "Sara",
+      "Brandon"
+    ],
+    "empleados_responsables": [
+      "empleado_44",
+      "empleado_15"
+    ],
+    "horario": "16:30"
+  },
+  {
+    "_id": {
+      "$oid": "ae03c94d-26d9-4e42-9215-b8f8d8c63e9c"
+    },
+    "nombre": "Pre-emptive dedicated hub",
+    "descripcion": "Full structure our.",
+    "edificio_id": "edificio_same",
+    "animales_participantes": [
+      "Amanda"
+    ],
+    "empleados_responsables": [
+      "empleado_33",
+      "empleado_48"
+    ],
+    "horario": "14:00"
+  },
+  {
+    "_id": {
+      "$oid": "10bab838-9d51-4a13-bf77-fcfc4c41c7fe"
+    },
+    "nombre": "Future-proofed exuding methodology",
+    "descripcion": "Financial outside face free maintain institution there.",
+    "edificio_id": "edificio_early",
+    "animales_participantes": [
+      "Joseph",
+      "Katelyn",
+      "Matthew"
+    ],
+    "empleados_responsables": [
+      "empleado_88"
+    ],
+    "horario": "12:30"
+  },
+  {
+    "_id": {
+      "$oid": "070d23b6-6270-446d-be25-e7a0ca96c69d"
+    },
+    "nombre": "Reduced heuristic initiative",
+    "descripcion": "Cut open decide seek none.",
+    "edificio_id": "edificio_blue",
+    "animales_participantes": [
+      "Samuel"
+    ],
+    "empleados_responsables": [
+      "empleado_80",
+      "empleado_55"
+    ],
+    "horario": "14:00"
+  },
+  {
+    "_id": {
+      "$oid": "9afc3dc1-b678-45b1-8490-ddfa220d3b4c"
+    },
+    "nombre": "Implemented optimizing data-warehouse",
+    "descripcion": "Participant past bit.",
+    "edificio_id": "edificio_technology",
+    "animales_participantes": [
+      "Matthew"
+    ],
+    "empleados_responsables": [
+      "empleado_68"
+    ],
+    "horario": "16:30"
+  },
+  {
+    "_id": {
+      "$oid": "8d275640-e7f4-4677-8493-3ee1fa3a7722"
+    },
+    "nombre": "Front-line demand-driven support",
+    "descripcion": "Can outside voice already writer within.",
+    "edificio_id": "edificio_next",
+    "animales_participantes": [
+      "Logan"
+    ],
+    "empleados_responsables": [
+      "empleado_57",
+      "empleado_60"
+    ],
+    "horario": "18:00"
+  },
+  {
+    "_id": {
+      "$oid": "1571bd20-0718-47fd-bd39-2ea11abe2df2"
+    },
+    "nombre": "Sharable dedicated archive",
+    "descripcion": "Position recent also build.",
+    "edificio_id": "edificio_paper",
+    "animales_participantes": [
+      "Ronald"
+    ],
+    "empleados_responsables": [
+      "empleado_37",
+      "empleado_31"
+    ],
+    "horario": "11:30"
+  }
+]
