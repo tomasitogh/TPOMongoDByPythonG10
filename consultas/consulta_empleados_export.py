@@ -1,10 +1,15 @@
 from pymongo import MongoClient
 import pandas as pd
 import os
+import json
+
+# Leer configuración desde el archivo JSON
+with open("./config/config.json", "r") as config_file:
+    config = json.load(config_file)
 
 # Conexión a la base de datos MongoDB
-client = MongoClient("mongodb://localhost:27017/")
-db = client["zoologico"]  # Cambia "zoologico" por el nombre de tu base de datos si es diferente
+client = MongoClient(config["mongo_uri"])
+db = client[config["database"]]
 empleados_collection = db["empleados"]  # Cambia "empleados" si el nombre de la colección es diferente
 
 # Consulta: empleados mayores de 30 años con salario superior a 7000

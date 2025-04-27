@@ -1,8 +1,14 @@
 from pymongo import MongoClient
 
+import json
+
+# Leer configuración desde el archivo JSON
+with open("./config/config.json", "r") as config_file:
+    config = json.load(config_file)
+
 # Conexión a la base de datos MongoDB
-client = MongoClient("mongodb://localhost:27017/")
-db = client["zoologico"]  # Cambia "zoologico" por el nombre de tu base de datos si es diferente
+client = MongoClient(config["mongo_uri"])
+db = client[config["database"]]
 empleados_collection = db["empleados"]  # Cambia "empleados" si el nombre de la colección es diferente
 
 # Consulta: obtener el promedio de salario por cargo
@@ -10,7 +16,11 @@ resultado = empleados_collection.aggregate([
     {"$group": {"_id": "$rol", "promedio_salario": {"$avg": "$salario"}}}
 ])
 
+# Convertir el cursor en una lista para evitar problemas de consumo
+resultado = list(resultado)
+
 # Mostrar resultados
 print("Promedio de salario por cargo:")
 for cargo in resultado:
-    print(f"Cargo: {cargo['_id']}, Promedio de salario: {cargo['promedio_salario']:.2f}")
+    promedio = cargo.get("promedio_salario", 0)  # Manejar valores None
+    print(f"Cargo: {cargo['_id']}, Promedio de salario: {promedio:.2f}")

@@ -63,7 +63,8 @@ for i in range(CANT_EMPLEADOS):
         "nombre": fake.name(),
         "rol": random.choice(["Cuidador de carnívoros", "Veterinario", "Guía de visitantes", "Especialista en aves"]),
         "zona_asignada": random.choice(nombres_zonas),
-        "especialidad": random.choice(["Felinos grandes", "Aves tropicales", "Reptiles venenosos", "Mamíferos acuáticos"])
+        "especialidad": random.choice(["Felinos grandes", "Aves tropicales", "Reptiles venenosos", "Mamíferos acuáticos"]),
+        "salario": random.randint(3000, 10000),
     })
     nombres_empleados.append(empleado_id)
 
@@ -122,7 +123,7 @@ dataset = {
 }
 
 # Guardar en archivo
-with open('ZoologicoGrupo10.json', 'w', encoding='utf-8') as f:
+with open('JSONs\ZoologicoGrupo10.json', 'w', encoding='utf-8') as f:
     json.dump(dataset, f, ensure_ascii=False, indent=2)
 
 print("¡Dataset de zoológico (~400 registros) generado exitosamente!")

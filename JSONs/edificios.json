@@ -1,62 +1,62 @@
 [
   {
-    "_id": "edificio_same",
-    "nombre": "Martinez Group",
-    "tipo": "Administrativo",
-    "zona_id": "zona_fall"
-  },
-  {
-    "_id": "edificio_early",
-    "nombre": "York-Mccall",
+    "_id": "edificio_low",
+    "nombre": "Ryan, Taylor and Johnson",
     "tipo": "Tienda",
-    "zona_id": "zona_Mr"
+    "zona_id": "zona_themselves"
   },
   {
-    "_id": "edificio_technology",
-    "nombre": "Hunter-Wilson",
-    "tipo": "Administrativo",
-    "zona_id": "zona_fall"
-  },
-  {
-    "_id": "edificio_next",
-    "nombre": "Barton, Porter and Williamson",
-    "tipo": "Administrativo",
-    "zona_id": "zona_Mr"
-  },
-  {
-    "_id": "edificio_two",
-    "nombre": "Ward, Alexander and Wilson",
-    "tipo": "Restaurante",
-    "zona_id": "zona_tonight"
-  },
-  {
-    "_id": "edificio_paper",
-    "nombre": "Case Group",
+    "_id": "edificio_media",
+    "nombre": "Lopez, Turner and Mann",
     "tipo": "Área de espectáculos",
-    "zona_id": "zona_next"
+    "zona_id": "zona_day"
   },
   {
-    "_id": "edificio_style",
-    "nombre": "Newman-Ellison",
+    "_id": "edificio_unit",
+    "nombre": "Jones-Lopez",
+    "tipo": "Área de espectáculos",
+    "zona_id": "zona_I"
+  },
+  {
+    "_id": "edificio_speech",
+    "nombre": "Horn-Warren",
     "tipo": "Administrativo",
-    "zona_id": "zona_necessary"
+    "zona_id": "zona_discussion"
   },
   {
-    "_id": "edificio_leave",
-    "nombre": "Goodman-Watkins",
-    "tipo": "Restaurante",
-    "zona_id": "zona_example"
-  },
-  {
-    "_id": "edificio_table",
-    "nombre": "Peterson, Turner and Waters",
-    "tipo": "Centro Médico",
-    "zona_id": "zona_choice"
-  },
-  {
-    "_id": "edificio_blue",
-    "nombre": "Sullivan, Lewis and Long",
+    "_id": "edificio_serious",
+    "nombre": "Arias-Johnston",
     "tipo": "Tienda",
-    "zona_id": "zona_choice"
+    "zona_id": "zona_stage"
+  },
+  {
+    "_id": "edificio_beat",
+    "nombre": "Alvarado, Stanley and Mckenzie",
+    "tipo": "Tienda",
+    "zona_id": "zona_stage"
+  },
+  {
+    "_id": "edificio_term",
+    "nombre": "Thompson-Collins",
+    "tipo": "Tienda",
+    "zona_id": "zona_bed"
+  },
+  {
+    "_id": "edificio_behavior",
+    "nombre": "Fitzgerald-Smith",
+    "tipo": "Restaurante",
+    "zona_id": "zona_stage"
+  },
+  {
+    "_id": "edificio_everybody",
+    "nombre": "Lewis, Anderson and Watson",
+    "tipo": "Administrativo",
+    "zona_id": "zona_stage"
+  },
+  {
+    "_id": "edificio_behavior",
+    "nombre": "Shah Group",
+    "tipo": "Administrativo",
+    "zona_id": "zona_I"
   }
 ]
