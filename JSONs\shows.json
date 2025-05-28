@@ -1,0 +1,665 @@
+[
+  {
+    "_id": {
+      "$oid": "58ae397c-6318-40fd-a544-52df82bd54a0"
+    },
+    "nombre": "Face-to-face dedicated contingency",
+    "descripcion": "Another goal fast today line.",
+    "edificio_id": "edificio_later",
+    "animales_participantes": [
+      "Brandi",
+      "Ashley"
+    ],
+    "empleados_responsables": [
+      "empleado_27",
+      "empleado_78"
+    ],
+    "horario": "10:30"
+  },
+  {
+    "_id": {
+      "$oid": "262e4186-483c-4a4e-814b-972a3ef3951d"
+    },
+    "nombre": "Assimilated cohesive encryption",
+    "descripcion": "Life who direction still true author phone.",
+    "edificio_id": "edificio_current",
+    "animales_participantes": [
+      "Colleen"
+    ],
+    "empleados_responsables": [
+      "empleado_88"
+    ],
+    "horario": "12:30"
+  },
+  {
+    "_id": {
+      "$oid": "090f66f1-9e00-4b92-a1f6-be49f2680049"
+    },
+    "nombre": "Multi-lateral leadingedge methodology",
+    "descripcion": "Pay key add.",
+    "edificio_id": "edificio_color",
+    "animales_participantes": [
+      "Andrew",
+      "Jason",
+      "Philip"
+    ],
+    "empleados_responsables": [
+      "empleado_97",
+      "empleado_59"
+    ],
+    "horario": "14:30"
+  },
+  {
+    "_id": {
+      "$oid": "1dc4eab0-9d2a-4c7d-9dc5-d5c1f9868d31"
+    },
+    "nombre": "Customizable client-server product",
+    "descripcion": "Person over why visit break price really dog.",
+    "edificio_id": "edificio_sing",
+    "animales_participantes": [
+      "Heather"
+    ],
+    "empleados_responsables": [
+      "empleado_81",
+      "empleado_48"
+    ],
+    "horario": "17:00"
+  },
+  {
+    "_id": {
+      "$oid": "c83c4ff3-7de0-4234-bd34-4fcf1c5f4f9d"
+    },
+    "nombre": "Customizable fault-tolerant neural-net",
+    "descripcion": "Amount point court head.",
+    "edificio_id": "edificio_later",
+    "animales_participantes": [
+      "Courtney",
+      "Amy",
+      "Manuel"
+    ],
+    "empleados_responsables": [
+      "empleado_40"
+    ],
+    "horario": "17:30"
+  },
+  {
+    "_id": {
+      "$oid": "0dc1a3a6-962f-4d12-9ee1-1f37eb4b4d3d"
+    },
+    "nombre": "Ameliorated object-oriented alliance",
+    "descripcion": "Area authority thousand week note sell.",
+    "edificio_id": "edificio_all",
+    "animales_participantes": [
+      "Keith"
+    ],
+    "empleados_responsables": [
+      "empleado_3"
+    ],
+    "horario": "13:00"
+  },
+  {
+    "_id": {
+      "$oid": "215ccbfa-3948-4992-96f0-5aa30af01b0f"
+    },
+    "nombre": "Synergistic multimedia projection",
+    "descripcion": "Policy collection leg a approach bad.",
+    "edificio_id": "edificio_sing",
+    "animales_participantes": [
+      "Chris",
+      "Mario"
+    ],
+    "empleados_responsables": [
+      "empleado_99"
+    ],
+    "horario": "18:30"
+  },
+  {
+    "_id": {
+      "$oid": "17309c67-3f51-4f3a-b17f-8b7e6421c1f5"
+    },
+    "nombre": "Expanded needs-based software",
+    "descripcion": "See wife because onto remember.",
+    "edificio_id": "edificio_later",
+    "animales_participantes": [
+      "Rebecca",
+      "Richard"
+    ],
+    "empleados_responsables": [
+      "empleado_95",
+      "empleado_25"
+    ],
+    "horario": "15:30"
+  },
+  {
+    "_id": {
+      "$oid": "2a61f680-38cb-45bf-b2d0-213d6e60fd37"
+    },
+    "nombre": "Sharable bifurcated orchestration",
+    "descripcion": "Shake seek hotel continue thank from bar southern.",
+    "edificio_id": "edificio_almost",
+    "animales_participantes": [
+      "Samuel",
+      "William",
+      "Amy"
+    ],
+    "empleados_responsables": [
+      "empleado_70",
+      "empleado_44"
+    ],
+    "horario": "11:00"
+  },
+  {
+    "_id": {
+      "$oid": "168648b9-2d8f-4cad-89a0-5132ee36c9b0"
+    },
+    "nombre": "Grass-roots mission-critical info-mediaries",
+    "descripcion": "Answer least point view.",
+    "edificio_id": "edificio_almost",
+    "animales_participantes": [
+      "Katherine",
+      "Nicholas"
+    ],
+    "empleados_responsables": [
+      "empleado_36",
+      "empleado_41"
+    ],
+    "horario": "16:00"
+  },
+  {
+    "_id": {
+      "$oid": "bfcfe740-d77f-491d-9a27-2d4aa1358fed"
+    },
+    "nombre": "Vision-oriented full-range synergy",
+    "descripcion": "Together ago itself generation.",
+    "edificio_id": "edificio_theory",
+    "animales_participantes": [
+      "Sharon",
+      "Kathryn"
+    ],
+    "empleados_responsables": [
+      "empleado_99"
+    ],
+    "horario": "13:30"
+  },
+  {
+    "_id": {
+      "$oid": "99a1bc25-29cd-4db3-90f8-7c01f380897c"
+    },
+    "nombre": "Enterprise-wide upward-trending data-warehouse",
+    "descripcion": "List eat describe seven life also.",
+    "edificio_id": "edificio_theory",
+    "animales_participantes": [
+      "Keith"
+    ],
+    "empleados_responsables": [
+      "empleado_9",
+      "empleado_83"
+    ],
+    "horario": "14:00"
+  },
+  {
+    "_id": {
+      "$oid": "2b9f5e88-13c7-49c8-9875-5c0081ead240"
+    },
+    "nombre": "Seamless client-server structure",
+    "descripcion": "Economy whose nearly series rule meeting meeting.",
+    "edificio_id": "edificio_color",
+    "animales_participantes": [
+      "William"
+    ],
+    "empleados_responsables": [
+      "empleado_17"
+    ],
+    "horario": "16:30"
+  },
+  {
+    "_id": {
+      "$oid": "b51377ab-9a03-4a49-a22d-43bce400b480"
+    },
+    "nombre": "Secured non-volatile open architecture",
+    "descripcion": "Record health weight box.",
+    "edificio_id": "edificio_later",
+    "animales_participantes": [
+      "Rachel",
+      "Lori"
+    ],
+    "empleados_responsables": [
+      "empleado_82"
+    ],
+    "horario": "13:00"
+  },
+  {
+    "_id": {
+      "$oid": "5b07e4a1-612e-44af-b74f-8d7ae4de7cd3"
+    },
+    "nombre": "Re-contextualized client-driven functionalities",
+    "descripcion": "Successful theory local man.",
+    "edificio_id": "edificio_sing",
+    "animales_participantes": [
+      "Juan",
+      "Dennis"
+    ],
+    "empleados_responsables": [
+      "empleado_39",
+      "empleado_69"
+    ],
+    "horario": "17:30"
+  },
+  {
+    "_id": {
+      "$oid": "7e9276d9-57b7-480c-a0a3-577b600f45d6"
+    },
+    "nombre": "Multi-lateral fault-tolerant synergy",
+    "descripcion": "Can garden already check few produce.",
+    "edificio_id": "edificio_color",
+    "animales_participantes": [
+      "Spencer",
+      "Brad",
+      "Elizabeth"
+    ],
+    "empleados_responsables": [
+      "empleado_59"
+    ],
+    "horario": "13:00"
+  },
+  {
+    "_id": {
+      "$oid": "c0c48de7-879d-4219-ae10-c4fbade3de94"
+    },
+    "nombre": "Exclusive dynamic system engine",
+    "descripcion": "Ten only start add.",
+    "edificio_id": "edificio_partner",
+    "animales_participantes": [
+      "Michelle"
+    ],
+    "empleados_responsables": [
+      "empleado_65",
+      "empleado_35"
+    ],
+    "horario": "15:00"
+  },
+  {
+    "_id": {
+      "$oid": "be1e221b-bc51-43fc-9d26-3917138380cb"
+    },
+    "nombre": "Switchable logistical strategy",
+    "descripcion": "Result center stage across.",
+    "edificio_id": "edificio_deep",
+    "animales_participantes": [
+      "Michael",
+      "Alan",
+      "Kathryn"
+    ],
+    "empleados_responsables": [
+      "empleado_51"
+    ],
+    "horario": "17:00"
+  },
+  {
+    "_id": {
+      "$oid": "7d0b3407-b606-40a8-9aa0-65eea0b6cc46"
+    },
+    "nombre": "Object-based client-driven monitoring",
+    "descripcion": "Rich line direction water any team expect.",
+    "edificio_id": "edificio_all",
+    "animales_participantes": [
+      "Brandi",
+      "Aaron"
+    ],
+    "empleados_responsables": [
+      "empleado_58",
+      "empleado_79"
+    ],
+    "horario": "14:00"
+  },
+  {
+    "_id": {
+      "$oid": "b23d0acc-7a9d-4f76-bf7d-51b8ae716c5f"
+    },
+    "nombre": "Grass-roots upward-trending Local Area Network",
+    "descripcion": "Season name surface.",
+    "edificio_id": "edificio_almost",
+    "animales_participantes": [
+      "Robert",
+      "Kristen"
+    ],
+    "empleados_responsables": [
+      "empleado_11",
+      "empleado_5"
+    ],
+    "horario": "17:00"
+  },
+  {
+    "_id": {
+      "$oid": "dc5ea9e4-d44b-4385-9a8d-30968832d03c"
+    },
+    "nombre": "Horizontal optimal focus group",
+    "descripcion": "Affect others various general often.",
+    "edificio_id": "edificio_color",
+    "animales_participantes": [
+      "Amy",
+      "Jared",
+      "Andrea"
+    ],
+    "empleados_responsables": [
+      "empleado_48"
+    ],
+    "horario": "13:30"
+  },
+  {
+    "_id": {
+      "$oid": "8cb8d01b-67de-4a87-92ca-2b4e44bb66e1"
+    },
+    "nombre": "Enterprise-wide intermediate installation",
+    "descripcion": "Less so message talk hard board.",
+    "edificio_id": "edificio_avoid",
+    "animales_participantes": [
+      "Robert"
+    ],
+    "empleados_responsables": [
+      "empleado_13",
+      "empleado_63"
+    ],
+    "horario": "12:00"
+  },
+  {
+    "_id": {
+      "$oid": "6d16c656-aa47-4dcf-beee-23518e50e1d1"
+    },
+    "nombre": "Reverse-engineered composite benchmark",
+    "descripcion": "Amount hour central attention matter high.",
+    "edificio_id": "edificio_deep",
+    "animales_participantes": [
+      "Brandi",
+      "Erik"
+    ],
+    "empleados_responsables": [
+      "empleado_14"
+    ],
+    "horario": "18:00"
+  },
+  {
+    "_id": {
+      "$oid": "5591c35b-ce46-4d22-a072-30a9b013623d"
+    },
+    "nombre": "Advanced content-based emulation",
+    "descripcion": "Treat owner bed ability.",
+    "edificio_id": "edificio_sing",
+    "animales_participantes": [
+      "Oscar"
+    ],
+    "empleados_responsables": [
+      "empleado_24",
+      "empleado_96"
+    ],
+    "horario": "11:00"
+  },
+  {
+    "_id": {
+      "$oid": "b353ed30-3cec-49e4-99e0-91bc242ee567"
+    },
+    "nombre": "Total cohesive knowledgebase",
+    "descripcion": "Statement wear start could drive anything.",
+    "edificio_id": "edificio_theory",
+    "animales_participantes": [
+      "Crystal",
+      "Sarah"
+    ],
+    "empleados_responsables": [
+      "empleado_79"
+    ],
+    "horario": "17:30"
+  },
+  {
+    "_id": {
+      "$oid": "ba415359-ded5-4c61-b730-3ffd714a1ff2"
+    },
+    "nombre": "Sharable empowering toolset",
+    "descripcion": "Daughter go almost the.",
+    "edificio_id": "edificio_theory",
+    "animales_participantes": [
+      "Robert",
+      "Laura",
+      "Michael"
+    ],
+    "empleados_responsables": [
+      "empleado_11",
+      "empleado_17"
+    ],
+    "horario": "14:00"
+  },
+  {
+    "_id": {
+      "$oid": "39da1091-807f-46a8-a1f5-a4de58fa3ba7"
+    },
+    "nombre": "Down-sized 4thgeneration hardware",
+    "descripcion": "Customer clear direction most teacher.",
+    "edificio_id": "edificio_deep",
+    "animales_participantes": [
+      "Andrea"
+    ],
+    "empleados_responsables": [
+      "empleado_96"
+    ],
+    "horario": "15:00"
+  },
+  {
+    "_id": {
+      "$oid": "9e5af734-6c3a-4742-a77a-1189e8313876"
+    },
+    "nombre": "Virtual tangible process improvement",
+    "descripcion": "Main measure hundred west.",
+    "edificio_id": "edificio_color",
+    "animales_participantes": [
+      "Tracy",
+      "Sharon",
+      "Rachel"
+    ],
+    "empleados_responsables": [
+      "empleado_78",
+      "empleado_80"
+    ],
+    "horario": "10:00"
+  },
+  {
+    "_id": {
+      "$oid": "08bc9350-c27d-46d0-8079-bedad050f92c"
+    },
+    "nombre": "Innovative multimedia intranet",
+    "descripcion": "Minute boy leader she.",
+    "edificio_id": "edificio_sing",
+    "animales_participantes": [
+      "Heather"
+    ],
+    "empleados_responsables": [
+      "empleado_6"
+    ],
+    "horario": "11:30"
+  },
+  {
+    "_id": {
+      "$oid": "7b4c25a9-de83-4245-a6ed-2bc5b73c2f9b"
+    },
+    "nombre": "Vision-oriented holistic orchestration",
+    "descripcion": "Buy culture whatever baby identify.",
+    "edificio_id": "edificio_later",
+    "animales_participantes": [
+      "Paula"
+    ],
+    "empleados_responsables": [
+      "empleado_99",
+      "empleado_97"
+    ],
+    "horario": "12:00"
+  },
+  {
+    "_id": {
+      "$oid": "66c573ce-c016-411f-8eee-88a58a39a71b"
+    },
+    "nombre": "Automated high-level challenge",
+    "descripcion": "Treat mention daughter off general skill city.",
+    "edificio_id": "edificio_partner",
+    "animales_participantes": [
+      "Oscar",
+      "Christine",
+      "Lisa"
+    ],
+    "empleados_responsables": [
+      "empleado_2",
+      "empleado_17"
+    ],
+    "horario": "11:30"
+  },
+  {
+    "_id": {
+      "$oid": "6a5bd12b-6c10-4c20-916d-a7f7a737edeb"
+    },
+    "nombre": "Grass-roots 24hour concept",
+    "descripcion": "Hand movie safe herself capital strong.",
+    "edificio_id": "edificio_partner",
+    "animales_participantes": [
+      "Joseph"
+    ],
+    "empleados_responsables": [
+      "empleado_19",
+      "empleado_89"
+    ],
+    "horario": "18:30"
+  },
+  {
+    "_id": {
+      "$oid": "91ec8252-b481-4f09-8ae5-699475a869c6"
+    },
+    "nombre": "Assimilated value-added knowledge user",
+    "descripcion": "Kitchen all easy current country we parent.",
+    "edificio_id": "edificio_almost",
+    "animales_participantes": [
+      "Michael",
+      "Patricia",
+      "Monique"
+    ],
+    "empleados_responsables": [
+      "empleado_20",
+      "empleado_53"
+    ],
+    "horario": "16:30"
+  },
+  {
+    "_id": {
+      "$oid": "190eaf56-3bdd-4ac1-a68d-f4e863dc52f2"
+    },
+    "nombre": "Reverse-engineered even-keeled customer loyalty",
+    "descripcion": "Continue you land low.",
+    "edificio_id": "edificio_all",
+    "animales_participantes": [
+      "Michael",
+      "Christopher"
+    ],
+    "empleados_responsables": [
+      "empleado_0"
+    ],
+    "horario": "17:30"
+  },
+  {
+    "_id": {
+      "$oid": "58580e5b-18ba-4bde-b539-ea441c19309b"
+    },
+    "nombre": "Decentralized fault-tolerant Graphic Interface",
+    "descripcion": "Land can hit.",
+    "edificio_id": "edificio_sing",
+    "animales_participantes": [
+      "Robert",
+      "Perry"
+    ],
+    "empleados_responsables": [
+      "empleado_89",
+      "empleado_71"
+    ],
+    "horario": "14:00"
+  },
+  {
+    "_id": {
+      "$oid": "7fac7047-2a08-4ae5-a70e-321fdbc7a28c"
+    },
+    "nombre": "Ameliorated intangible circuit",
+    "descripcion": "Leg father sister.",
+    "edificio_id": "edificio_deep",
+    "animales_participantes": [
+      "Elizabeth",
+      "Manuel"
+    ],
+    "empleados_responsables": [
+      "empleado_41",
+      "empleado_34"
+    ],
+    "horario": "15:30"
+  },
+  {
+    "_id": {
+      "$oid": "d047ad66-c375-48cd-b4af-cbd571901413"
+    },
+    "nombre": "Pre-emptive motivating knowledge user",
+    "descripcion": "Time good hair remember.",
+    "edificio_id": "edificio_later",
+    "animales_participantes": [
+      "Amy",
+      "Steven",
+      "Tracy"
+    ],
+    "empleados_responsables": [
+      "empleado_53",
+      "empleado_71"
+    ],
+    "horario": "11:30"
+  },
+  {
+    "_id": {
+      "$oid": "b9d8ba34-b197-470f-90ed-182461348497"
+    },
+    "nombre": "Persevering homogeneous emulation",
+    "descripcion": "Deep know blood onto no statement.",
+    "edificio_id": "edificio_color",
+    "animales_participantes": [
+      "Douglas",
+      "Susan",
+      "Ricky"
+    ],
+    "empleados_responsables": [
+      "empleado_13",
+      "empleado_65"
+    ],
+    "horario": "18:30"
+  },
+  {
+    "_id": {
+      "$oid": "16ceffca-2cb4-4bfe-be0c-b109ea04ef7b"
+    },
+    "nombre": "Robust fault-tolerant moratorium",
+    "descripcion": "Play inside phone movement world police western price.",
+    "edificio_id": "edificio_almost",
+    "animales_participantes": [
+      "Sharon",
+      "Daniel"
+    ],
+    "empleados_responsables": [
+      "empleado_93"
+    ],
+    "horario": "14:00"
+  },
+  {
+    "_id": {
+      "$oid": "bd5f49bf-45ef-4bb2-a508-01dc83137281"
+    },
+    "nombre": "Virtual uniform utilization",
+    "descripcion": "Energy any thought young price seek.",
+    "edificio_id": "edificio_sing",
+    "animales_participantes": [
+      "Shannon"
+    ],
+    "empleados_responsables": [
+      "empleado_50",
+      "empleado_64"
+    ],
+    "horario": "17:00"
+  }
+]

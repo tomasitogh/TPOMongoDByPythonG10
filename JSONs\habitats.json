@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "habitat_area",
+    "nombre": "Himself de Price",
+    "tipo": "Acuático",
+    "zona_id": "zona_call",
+    "capacidad": 10
+  },
+  {
+    "_id": "habitat_rate",
+    "nombre": "About de Certainly",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_low",
+    "capacidad": 3
+  },
+  {
+    "_id": "habitat_beyond",
+    "nombre": "Mention de People",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_ahead",
+    "capacidad": 4
+  },
+  {
+    "_id": "habitat_thank",
+    "nombre": "Issue de Rock",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_low",
+    "capacidad": 8
+  },
+  {
+    "_id": "habitat_commercial",
+    "nombre": "Every de Act",
+    "tipo": "Cerrado",
+    "zona_id": "zona_last",
+    "capacidad": 4
+  },
+  {
+    "_id": "habitat_no",
+    "nombre": "Of de Chair",
+    "tipo": "Acuático",
+    "zona_id": "zona_question",
+    "capacidad": 5
+  },
+  {
+    "_id": "habitat_single",
+    "nombre": "Will de Court",
+    "tipo": "Cerrado",
+    "zona_id": "zona_few",
+    "capacidad": 10
+  },
+  {
+    "_id": "habitat_structure",
+    "nombre": "Money de Five",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_last",
+    "capacidad": 8
+  },
+  {
+    "_id": "habitat_call",
+    "nombre": "It de Care",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_few",
+    "capacidad": 7
+  },
+  {
+    "_id": "habitat_spring",
+    "nombre": "Car de Participant",
+    "tipo": "Acuático",
+    "zona_id": "zona_question",
+    "capacidad": 4
+  },
+  {
+    "_id": "habitat_nation",
+    "nombre": "Within de Yes",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_job",
+    "capacidad": 8
+  },
+  {
+    "_id": "habitat_try",
+    "nombre": "Carry de Exist",
+    "tipo": "Cerrado",
+    "zona_id": "zona_course",
+    "capacidad": 5
+  },
+  {
+    "_id": "habitat_my",
+    "nombre": "Practice de Good",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_job",
+    "capacidad": 7
+  },
+  {
+    "_id": "habitat_defense",
+    "nombre": "Act de And",
+    "tipo": "Acuático",
+    "zona_id": "zona_suddenly",
+    "capacidad": 8
+  },
+  {
+    "_id": "habitat_which",
+    "nombre": "Position de Someone",
+    "tipo": "Acuático",
+    "zona_id": "zona_low",
+    "capacidad": 5
+  },
+  {
+    "_id": "habitat_red",
+    "nombre": "Boy de Camera",
+    "tipo": "Acuático",
+    "zona_id": "zona_mean",
+    "capacidad": 5
+  },
+  {
+    "_id": "habitat_measure",
+    "nombre": "Form de Debate",
+    "tipo": "Acuático",
+    "zona_id": "zona_mean",
+    "capacidad": 10
+  },
+  {
+    "_id": "habitat_budget",
+    "nombre": "Right de Nature",
+    "tipo": "Acuático",
+    "zona_id": "zona_mean",
+    "capacidad": 10
+  },
+  {
+    "_id": "habitat_role",
+    "nombre": "Magazine de Head",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_few",
+    "capacidad": 3
+  },
+  {
+    "_id": "habitat_difference",
+    "nombre": "Throw de Candidate",
+    "tipo": "Semi-abierto",
+    "zona_id": "zona_last",
+    "capacidad": 3
+  }
+]

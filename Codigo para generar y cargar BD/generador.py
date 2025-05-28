@@ -1,5 +1,5 @@
 # Primero, muy importante, instalar la librería faker:
-# pip install faker
+# pip install faker o pip3 install faker en algunos casos
 # Luego, ejecutar el script para generar el dataset en formato JSON
 
 

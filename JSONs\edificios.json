@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "edificio_theory",
+    "nombre": "Martinez Ltd",
+    "tipo": "Centro Médico",
+    "zona_id": "zona_job"
+  },
+  {
+    "_id": "edificio_later",
+    "nombre": "Shah-Taylor",
+    "tipo": "Restaurante",
+    "zona_id": "zona_ahead"
+  },
+  {
+    "_id": "edificio_color",
+    "nombre": "Clark LLC",
+    "tipo": "Centro Médico",
+    "zona_id": "zona_job"
+  },
+  {
+    "_id": "edificio_sing",
+    "nombre": "Townsend-Garza",
+    "tipo": "Tienda",
+    "zona_id": "zona_few"
+  },
+  {
+    "_id": "edificio_almost",
+    "nombre": "Pope Ltd",
+    "tipo": "Administrativo",
+    "zona_id": "zona_job"
+  },
+  {
+    "_id": "edificio_avoid",
+    "nombre": "Nunez-Turner",
+    "tipo": "Tienda",
+    "zona_id": "zona_ahead"
+  },
+  {
+    "_id": "edificio_all",
+    "nombre": "Baker LLC",
+    "tipo": "Administrativo",
+    "zona_id": "zona_few"
+  },
+  {
+    "_id": "edificio_current",
+    "nombre": "Clayton, Jackson and Hicks",
+    "tipo": "Administrativo",
+    "zona_id": "zona_low"
+  },
+  {
+    "_id": "edificio_deep",
+    "nombre": "Richardson-Davis",
+    "tipo": "Tienda",
+    "zona_id": "zona_ahead"
+  },
+  {
+    "_id": "edificio_partner",
+    "nombre": "Ward-Mccullough",
+    "tipo": "Centro Médico",
+    "zona_id": "zona_ahead"
+  }
+]

@@ -22,5 +22,8 @@ resultado = list(resultado)
 # Mostrar resultados
 print("Promedio de salario por cargo:")
 for cargo in resultado:
-    promedio = cargo.get("promedio_salario", 0)  # Manejar valores None
-    print(f"Cargo: {cargo['_id']}, Promedio de salario: {promedio:.2f}")
+    promedio = cargo.get("promedio_salario")
+    if promedio != None:
+        print(f"Cargo: {cargo['_id']}, Promedio de salario: {promedio:.2f}")
+    else:
+        print(f"Cargo: {cargo['_id']}, No hay datos de salario disponibles")
